@@ -1,0 +1,785 @@
+{
+  "block_id": "engineeringgenerosity-substack",
+  "generated_at": "2026-06-18T15:19:47Z",
+  "post_count": 97,
+  "posts": [
+    {
+      "markdown_path": "posts/2021-02-22-coming-soon.md",
+      "record_id": "s01-substack-r000001",
+      "source_id": "32829621",
+      "timestamp": "2021-02-22T22:50:09.437Z",
+      "title": "Exploring how ADHD affects my life and company as I build out my startup.",
+      "uri": "https://engineeringgenerosity.substack.com/p/coming-soon"
+    },
+    {
+      "markdown_path": "posts/2021-02-22-how-does-adhd-affect-a-company.md",
+      "record_id": "s01-substack-r000002",
+      "source_id": "32830688",
+      "timestamp": "2021-02-22T23:48:48.495Z",
+      "title": "How Does ADHD Affect A Company?",
+      "uri": "https://engineeringgenerosity.substack.com/p/how-does-adhd-affect-a-company"
+    },
+    {
+      "markdown_path": "posts/2021-02-24-next-topic-poll.md",
+      "record_id": "s01-substack-r000003",
+      "source_id": "32917512",
+      "timestamp": "2021-02-24T21:39:23.641Z",
+      "title": "Next Topic Poll",
+      "uri": "https://engineeringgenerosity.substack.com/p/next-topic-poll"
+    },
+    {
+      "markdown_path": "posts/2021-02-26-oversharing-and-investors.md",
+      "record_id": "s01-substack-r000004",
+      "source_id": "32953443",
+      "timestamp": "2021-02-26T15:33:13.043Z",
+      "title": "Oversharing and Investors",
+      "uri": "https://engineeringgenerosity.substack.com/p/oversharing-and-investors"
+    },
+    {
+      "markdown_path": "posts/2021-03-14-decisions-decisions-decisions.md",
+      "record_id": "s01-substack-r000005",
+      "source_id": "33385158",
+      "timestamp": "2021-03-14T15:57:31.602Z",
+      "title": "Decisions, Decisions, Decisions!",
+      "uri": "https://engineeringgenerosity.substack.com/p/decisions-decisions-decisions"
+    },
+    {
+      "markdown_path": "posts/2021-03-22-complexity-and-adhd.md",
+      "record_id": "s01-substack-r000006",
+      "source_id": "33804543",
+      "timestamp": "2021-03-22T00:41:17.375Z",
+      "title": "Complexity and ADHD",
+      "uri": "https://engineeringgenerosity.substack.com/p/complexity-and-adhd"
+    },
+    {
+      "markdown_path": "posts/2021-03-30-the-beauty-of-iteration.md",
+      "record_id": "s01-substack-r000007",
+      "source_id": "34526972",
+      "timestamp": "2021-03-30T16:00:03.038Z",
+      "title": "The Beauty of Iteration",
+      "uri": "https://engineeringgenerosity.substack.com/p/the-beauty-of-iteration"
+    },
+    {
+      "markdown_path": "posts/2021-04-09-big-news.md",
+      "record_id": "s01-substack-r000008",
+      "source_id": "34972441",
+      "timestamp": "2021-04-09T21:39:05.604Z",
+      "title": "Big News!",
+      "uri": "https://engineeringgenerosity.substack.com/p/big-news"
+    },
+    {
+      "markdown_path": "posts/2021-04-11-the-effects-of-prolonged-masking.md",
+      "record_id": "s01-substack-r000009",
+      "source_id": "35030374",
+      "timestamp": "2021-04-11T21:48:17.577Z",
+      "title": "The Effects of Prolonged Masking",
+      "uri": "https://engineeringgenerosity.substack.com/p/the-effects-of-prolonged-masking"
+    },
+    {
+      "markdown_path": "posts/2021-06-11-long-time-no-see.md",
+      "record_id": "s01-substack-r000010",
+      "source_id": "37497152",
+      "timestamp": "2021-06-11T20:29:38.855Z",
+      "title": "Long Time, No See",
+      "uri": "https://engineeringgenerosity.substack.com/p/long-time-no-see"
+    },
+    {
+      "markdown_path": "posts/2021-06-27-the-power-of-community.md",
+      "record_id": "s01-substack-r000011",
+      "source_id": "38096478",
+      "timestamp": "2021-06-27T18:34:30.004Z",
+      "title": "The Power of Community",
+      "uri": "https://engineeringgenerosity.substack.com/p/the-power-of-community"
+    },
+    {
+      "markdown_path": "posts/2021-07-22-procrastination-and-shame.md",
+      "record_id": "s01-substack-r000012",
+      "source_id": "38884243",
+      "timestamp": "2021-07-22T18:15:43.513Z",
+      "title": "Procrastination and Shame",
+      "uri": "https://engineeringgenerosity.substack.com/p/procrastination-and-shame"
+    },
+    {
+      "markdown_path": "posts/2022-04-25-a-new-direction-adhd-startup-becomes.md",
+      "record_id": "s01-substack-r000013",
+      "source_id": "52856764",
+      "timestamp": "2022-04-25T22:13:05.838Z",
+      "title": "A New Direction -> ADHD Startup becomes the SaaS Factory",
+      "uri": "https://engineeringgenerosity.substack.com/p/a-new-direction-adhd-startup-becomes"
+    },
+    {
+      "markdown_path": "posts/2022-04-29-saas-product-1-feather-crm.md",
+      "record_id": "s01-substack-r000014",
+      "source_id": "52988343",
+      "timestamp": "2022-04-29T22:03:18.690Z",
+      "title": "SaaS Product 1 - Feather CRM",
+      "uri": "https://engineeringgenerosity.substack.com/p/saas-product-1-feather-crm"
+    },
+    {
+      "markdown_path": "posts/2022-05-04-greetings-from-miami.md",
+      "record_id": "s01-substack-r000015",
+      "source_id": "53466972",
+      "timestamp": "2022-05-04T20:55:23.066Z",
+      "title": "Greetings From Miami!",
+      "uri": "https://engineeringgenerosity.substack.com/p/greetings-from-miami"
+    },
+    {
+      "markdown_path": "posts/2022-05-08-prepping-to-go-live-whoshouldiunfollowcom.md",
+      "record_id": "s01-substack-r000016",
+      "source_id": "54026317",
+      "timestamp": "2022-05-08T18:36:36.806Z",
+      "title": "Prepping to go live -> whoshouldIunfollow.com",
+      "uri": "https://engineeringgenerosity.substack.com/p/prepping-to-go-live-whoshouldiunfollowcom"
+    },
+    {
+      "markdown_path": "posts/2022-05-14-updating-my-approach-to-authentication.md",
+      "record_id": "s01-substack-r000017",
+      "source_id": "54467526",
+      "timestamp": "2022-05-14T14:16:08.719Z",
+      "title": "Updating My Approach To Authentication",
+      "uri": "https://engineeringgenerosity.substack.com/p/updating-my-approach-to-authentication"
+    },
+    {
+      "markdown_path": "posts/2022-05-21-my-new-role-firefighter.md",
+      "record_id": "s01-substack-r000018",
+      "source_id": "55939574",
+      "timestamp": "2022-05-21T15:17:24.438Z",
+      "title": "My New Role: Firefighter",
+      "uri": "https://engineeringgenerosity.substack.com/p/my-new-role-firefighter"
+    },
+    {
+      "markdown_path": "posts/2022-05-23-production-ready-at-last.md",
+      "record_id": "s01-substack-r000019",
+      "source_id": "56126779",
+      "timestamp": "2022-05-23T00:00:50.328Z",
+      "title": "Production Ready At Last",
+      "uri": "https://engineeringgenerosity.substack.com/p/production-ready-at-last"
+    },
+    {
+      "markdown_path": "posts/2022-05-28-getting-around-rate-limits.md",
+      "record_id": "s01-substack-r000020",
+      "source_id": "56278200",
+      "timestamp": "2022-05-28T20:45:26.856Z",
+      "title": "Getting Around Rate Limits",
+      "uri": "https://engineeringgenerosity.substack.com/p/getting-around-rate-limits"
+    },
+    {
+      "markdown_path": "posts/2022-06-08-enabling-payments-and-other-news.md",
+      "record_id": "s01-substack-r000021",
+      "source_id": "58300715",
+      "timestamp": "2022-06-08T00:32:22.218Z",
+      "title": "Enabling Payments and Other News",
+      "uri": "https://engineeringgenerosity.substack.com/p/enabling-payments-and-other-news"
+    },
+    {
+      "markdown_path": "posts/2022-06-13-the-code-review-react-nextjsblitzjs.md",
+      "record_id": "s01-substack-r000022",
+      "source_id": "59181509",
+      "timestamp": "2022-06-13T22:57:22.603Z",
+      "title": "The Code Review - React + NextJS/BlitzJS SWR Hooks",
+      "uri": "https://engineeringgenerosity.substack.com/p/the-code-review-react-nextjsblitzjs"
+    },
+    {
+      "markdown_path": "posts/2022-06-18-marketing-101-building-product-awareness.md",
+      "record_id": "s01-substack-r000023",
+      "source_id": "60025785",
+      "timestamp": "2022-06-18T15:30:15.419Z",
+      "title": "Marketing 101 - Building Product Awareness",
+      "uri": "https://engineeringgenerosity.substack.com/p/marketing-101-building-product-awareness"
+    },
+    {
+      "markdown_path": "posts/2022-06-23-the-code-review-data-models.md",
+      "record_id": "s01-substack-r000024",
+      "source_id": "60676848",
+      "timestamp": "2022-06-23T13:02:41.992Z",
+      "title": "The Code Review: Data Models",
+      "uri": "https://engineeringgenerosity.substack.com/p/the-code-review-data-models"
+    },
+    {
+      "markdown_path": "posts/2022-07-08-change-evolution-announcements-and.md",
+      "record_id": "s01-substack-r000025",
+      "source_id": "62547074",
+      "timestamp": "2022-07-08T23:55:20.249Z",
+      "title": "Change, Evolution, Announcements, and Updates",
+      "uri": "https://engineeringgenerosity.substack.com/p/change-evolution-announcements-and"
+    },
+    {
+      "markdown_path": "posts/2022-07-22-saas-factory-fortnightly-update-beta.md",
+      "record_id": "s01-substack-r000026",
+      "source_id": "64688154",
+      "timestamp": "2022-07-22T14:09:09.455Z",
+      "title": "SaaS Factory Fortnightly Update: Beta Launch",
+      "uri": "https://engineeringgenerosity.substack.com/p/saas-factory-fortnightly-update-beta"
+    },
+    {
+      "markdown_path": "posts/2022-08-01-saas-factory-update-wins-losses.md",
+      "record_id": "s01-substack-r000027",
+      "source_id": "66323128",
+      "timestamp": "2022-08-01T14:21:26.799Z",
+      "title": "SaaS Factory Update: Wins + Losses",
+      "uri": "https://engineeringgenerosity.substack.com/p/saas-factory-update-wins-losses"
+    },
+    {
+      "markdown_path": "posts/2022-08-13-saas-factory-revenue-setbacks-and.md",
+      "record_id": "s01-substack-r000028",
+      "source_id": "68489500",
+      "timestamp": "2022-08-13T16:09:50.096Z",
+      "title": "SaaS Factory - Revenue, Setbacks, and Launches, Oh My!",
+      "uri": "https://engineeringgenerosity.substack.com/p/saas-factory-revenue-setbacks-and"
+    },
+    {
+      "markdown_path": "posts/2022-08-15-launch-is-live.md",
+      "record_id": "s01-substack-r000029",
+      "source_id": "68688237",
+      "timestamp": "2022-08-15T08:00:37.246Z",
+      "title": "Launch Is Live!",
+      "uri": "https://engineeringgenerosity.substack.com/p/launch-is-live"
+    },
+    {
+      "markdown_path": "posts/2022-08-27-saas-factory-launch-recap-whats-next.md",
+      "record_id": "s01-substack-r000030",
+      "source_id": "70596599",
+      "timestamp": "2022-08-27T17:25:08.249Z",
+      "title": "SaaS Factory - Launch Recap + What's Next?",
+      "uri": "https://engineeringgenerosity.substack.com/p/saas-factory-launch-recap-whats-next"
+    },
+    {
+      "markdown_path": "posts/2022-09-12-saas-factory-updates-announcements.md",
+      "record_id": "s01-substack-r000031",
+      "source_id": "72319122",
+      "timestamp": "2022-09-12T00:40:29.476Z",
+      "title": "SaaS Factory - Updates, Announcements, and How We Teach Machines",
+      "uri": "https://engineeringgenerosity.substack.com/p/saas-factory-updates-announcements"
+    },
+    {
+      "markdown_path": "posts/2022-09-26-saas-factory-a-giant-screwup-and.md",
+      "record_id": "s01-substack-r000032",
+      "source_id": "74946618",
+      "timestamp": "2022-09-26T14:01:49.228Z",
+      "title": "SaaS Factory: A Giant Screwup and Looking To The Past For Inspiration",
+      "uri": "https://engineeringgenerosity.substack.com/p/saas-factory-a-giant-screwup-and"
+    },
+    {
+      "markdown_path": "posts/2022-10-12-saasfactory-update-the-content-factory.md",
+      "record_id": "s01-substack-r000033",
+      "source_id": "77416369",
+      "timestamp": "2022-10-12T13:01:00.270Z",
+      "title": "SaaSFactory Update: The Content Factory",
+      "uri": "https://engineeringgenerosity.substack.com/p/saasfactory-update-the-content-factory"
+    },
+    {
+      "markdown_path": "posts/2022-10-27-saas-factory-the-big-idea-to-feature.md",
+      "record_id": "s01-substack-r000034",
+      "source_id": "80666183",
+      "timestamp": "2022-10-27T13:50:48.925Z",
+      "title": "SaaS Factory: The Big Idea to Feature Pipeline",
+      "uri": "https://engineeringgenerosity.substack.com/p/saas-factory-the-big-idea-to-feature"
+    },
+    {
+      "markdown_path": "posts/2022-11-22-thoughts-on-the-future-of-twitter.md",
+      "record_id": "s01-substack-r000035",
+      "source_id": "85765599",
+      "timestamp": "2022-11-22T13:42:54.803Z",
+      "title": "Thoughts on the Future of Twitter and a New Tool",
+      "uri": "https://engineeringgenerosity.substack.com/p/thoughts-on-the-future-of-twitter"
+    },
+    {
+      "markdown_path": "posts/2022-12-12-playing-with-the-future.md",
+      "record_id": "s01-substack-r000036",
+      "source_id": "90161897",
+      "timestamp": "2022-12-12T23:54:13.661Z",
+      "title": "Playing With The Future",
+      "uri": "https://engineeringgenerosity.substack.com/p/playing-with-the-future"
+    },
+    {
+      "markdown_path": "posts/2022-12-20-need-your-help-hackathon-voting-is.md",
+      "record_id": "s01-substack-r000037",
+      "source_id": "91884590",
+      "timestamp": "2022-12-20T23:42:09.579Z",
+      "title": "Need Your Help: Hackathon Voting is Live!",
+      "uri": "https://engineeringgenerosity.substack.com/p/need-your-help-hackathon-voting-is"
+    },
+    {
+      "markdown_path": "posts/2023-01-10-content-creators-and-algorithms.md",
+      "record_id": "s01-substack-r000038",
+      "source_id": "95313550",
+      "timestamp": "2023-01-10T13:44:54.489Z",
+      "title": "Content, Creators, and Algorithms",
+      "uri": "https://engineeringgenerosity.substack.com/p/content-creators-and-algorithms"
+    },
+    {
+      "markdown_path": "posts/2023-01-28-lets-talk-marketing-demo-day.md",
+      "record_id": "s01-substack-r000039",
+      "source_id": "98904321",
+      "timestamp": "2023-01-28T13:48:37.917Z",
+      "title": "Let's Talk Marketing (+ Demo Day!)",
+      "uri": "https://engineeringgenerosity.substack.com/p/lets-talk-marketing-demo-day"
+    },
+    {
+      "markdown_path": "posts/2023-02-15-2-sided-marketplaces-platform-risk.md",
+      "record_id": "s01-substack-r000040",
+      "source_id": "102693693",
+      "timestamp": "2023-02-15T15:02:32.723Z",
+      "title": "2-Sided Marketplaces, Platform Risk, and Runaway Apps",
+      "uri": "https://engineeringgenerosity.substack.com/p/2-sided-marketplaces-platform-risk"
+    },
+    {
+      "markdown_path": "posts/2023-03-15-growth-hacks-and-setbacks.md",
+      "record_id": "s01-substack-r000041",
+      "source_id": "106599526",
+      "timestamp": "2023-03-15T12:58:01.834Z",
+      "title": "Growth Hacks and Setbacks",
+      "uri": "https://engineeringgenerosity.substack.com/p/growth-hacks-and-setbacks"
+    },
+    {
+      "markdown_path": "posts/2023-04-04-the-saas-factory-is-now-the-internet.md",
+      "record_id": "s01-substack-r000042",
+      "source_id": "112304844",
+      "timestamp": "2023-04-04T12:42:55.319Z",
+      "title": "The SaaS Factory Is Now The Internet Factory",
+      "uri": "https://engineeringgenerosity.substack.com/p/the-saas-factory-is-now-the-internet"
+    },
+    {
+      "markdown_path": "posts/2023-04-11-building-a-search-engine-part-1.md",
+      "record_id": "s01-substack-r000043",
+      "source_id": "113065220",
+      "timestamp": "2023-04-11T12:44:17.038Z",
+      "title": "Building a Search Engine: Part 1",
+      "uri": "https://engineeringgenerosity.substack.com/p/building-a-search-engine-part-1"
+    },
+    {
+      "markdown_path": "posts/2023-04-18-building-a-search-engine-part-2-beating.md",
+      "record_id": "s01-substack-r000044",
+      "source_id": "115505241",
+      "timestamp": "2023-04-18T12:42:56.091Z",
+      "title": "Building a Search Engine Part 2: Beating The Incumbents",
+      "uri": "https://engineeringgenerosity.substack.com/p/building-a-search-engine-part-2-beating"
+    },
+    {
+      "markdown_path": "posts/2023-04-25-building-a-search-engine-part-3-forget.md",
+      "record_id": "s01-substack-r000045",
+      "source_id": "116808473",
+      "timestamp": "2023-04-25T12:43:50.025Z",
+      "title": "Building a Search Engine Part 3: Forget SEO, Focus on Relationships",
+      "uri": "https://engineeringgenerosity.substack.com/p/building-a-search-engine-part-3-forget"
+    },
+    {
+      "markdown_path": "posts/2023-05-02-next-stop-social-media.md",
+      "record_id": "s01-substack-r000046",
+      "source_id": "118651002",
+      "timestamp": "2023-05-02T12:42:13.861Z",
+      "title": "Next Stop: Social Media",
+      "uri": "https://engineeringgenerosity.substack.com/p/next-stop-social-media"
+    },
+    {
+      "markdown_path": "posts/2023-05-09-social-media-part-1-attention-capture.md",
+      "record_id": "s01-substack-r000047",
+      "source_id": "120269018",
+      "timestamp": "2023-05-09T12:42:05.542Z",
+      "title": "Social Media Part 1: Attention Capture",
+      "uri": "https://engineeringgenerosity.substack.com/p/social-media-part-1-attention-capture"
+    },
+    {
+      "markdown_path": "posts/2023-05-16-social-media-part-2-the-algorithms.md",
+      "record_id": "s01-substack-r000048",
+      "source_id": "120735021",
+      "timestamp": "2023-05-16T12:42:51.237Z",
+      "title": "Social Media Part 2: The Algorithm(s)",
+      "uri": "https://engineeringgenerosity.substack.com/p/social-media-part-2-the-algorithms"
+    },
+    {
+      "markdown_path": "posts/2023-05-23-social-media-part-3-owning-your-experience.md",
+      "record_id": "s01-substack-r000049",
+      "source_id": "123135132",
+      "timestamp": "2023-05-23T12:43:15.219Z",
+      "title": "Social Media Part 3: Owning Your Experience",
+      "uri": "https://engineeringgenerosity.substack.com/p/social-media-part-3-owning-your-experience"
+    },
+    {
+      "markdown_path": "posts/2023-05-30-new-challenge-1-year-12-products.md",
+      "record_id": "s01-substack-r000050",
+      "source_id": "124782196",
+      "timestamp": "2023-05-30T12:42:08.506Z",
+      "title": "New Challenge: 1 Year. 12 Products. $150K.",
+      "uri": "https://engineeringgenerosity.substack.com/p/new-challenge-1-year-12-products"
+    },
+    {
+      "markdown_path": "posts/2023-06-06-week-1-product-1-talkhomey-takes.md",
+      "record_id": "s01-substack-r000051",
+      "source_id": "126382778",
+      "timestamp": "2023-06-06T12:42:56.204Z",
+      "title": "Week 1, Product 1: TalkHomey Takes Shape",
+      "uri": "https://engineeringgenerosity.substack.com/p/week-1-product-1-talkhomey-takes"
+    },
+    {
+      "markdown_path": "posts/2023-06-13-talkhomey-week-2-the-search-for-users.md",
+      "record_id": "s01-substack-r000052",
+      "source_id": "128005007",
+      "timestamp": "2023-06-13T14:42:11.569Z",
+      "title": "TalkHomey Week 2: The Search for Users Continues",
+      "uri": "https://engineeringgenerosity.substack.com/p/talkhomey-week-2-the-search-for-users"
+    },
+    {
+      "markdown_path": "posts/2023-06-27-lets-talk-programmatic-seo.md",
+      "record_id": "s01-substack-r000053",
+      "source_id": "131290555",
+      "timestamp": "2023-06-27T12:42:01.278Z",
+      "title": "Let's Talk Programmatic SEO",
+      "uri": "https://engineeringgenerosity.substack.com/p/lets-talk-programmatic-seo"
+    },
+    {
+      "markdown_path": "posts/2023-07-18-expectations-consistency-and-habits.md",
+      "record_id": "s01-substack-r000054",
+      "source_id": "135146576",
+      "timestamp": "2023-07-18T12:42:03.815Z",
+      "title": "Expectations, Consistency, and Habits",
+      "uri": "https://engineeringgenerosity.substack.com/p/expectations-consistency-and-habits"
+    },
+    {
+      "markdown_path": "posts/2023-07-25-the-new-coach-in-town-is-an-ai.md",
+      "record_id": "s01-substack-r000055",
+      "source_id": "135434438",
+      "timestamp": "2023-07-25T12:42:08.089Z",
+      "title": "The New Coach In Town Is an AI",
+      "uri": "https://engineeringgenerosity.substack.com/p/the-new-coach-in-town-is-an-ai"
+    },
+    {
+      "markdown_path": "posts/2023-08-01-meet-alix-your-new-build-in-public.md",
+      "record_id": "s01-substack-r000056",
+      "source_id": "135624931",
+      "timestamp": "2023-08-01T12:42:14.792Z",
+      "title": "Meet Alix - Your New Build In Public Coach",
+      "uri": "https://engineeringgenerosity.substack.com/p/meet-alix-your-new-build-in-public"
+    },
+    {
+      "markdown_path": "posts/2023-08-08-building-a-more-effective-coach.md",
+      "record_id": "s01-substack-r000057",
+      "source_id": "135814807",
+      "timestamp": "2023-08-08T12:42:06.170Z",
+      "title": "Building a More Effective Coach",
+      "uri": "https://engineeringgenerosity.substack.com/p/building-a-more-effective-coach"
+    },
+    {
+      "markdown_path": "posts/2023-08-15-lets-talk-distribution.md",
+      "record_id": "s01-substack-r000058",
+      "source_id": "136046450",
+      "timestamp": "2023-08-15T12:42:08.439Z",
+      "title": "Let's Talk Distribution",
+      "uri": "https://engineeringgenerosity.substack.com/p/lets-talk-distribution"
+    },
+    {
+      "markdown_path": "posts/2023-08-22-enter-the-grind.md",
+      "record_id": "s01-substack-r000059",
+      "source_id": "136301002",
+      "timestamp": "2023-08-22T12:51:31.497Z",
+      "title": "Enter The Grind",
+      "uri": "https://engineeringgenerosity.substack.com/p/enter-the-grind"
+    },
+    {
+      "markdown_path": "posts/2023-08-29-keeping-the-plates-spinning-burnout.md",
+      "record_id": "s01-substack-r000060",
+      "source_id": "136516804",
+      "timestamp": "2023-08-29T12:50:39.382Z",
+      "title": "Keeping the Plates Spinning -> Burnout and Imposter Syndrome",
+      "uri": "https://engineeringgenerosity.substack.com/p/keeping-the-plates-spinning-burnout"
+    },
+    {
+      "markdown_path": "posts/2023-09-05-hacks-hacking-and-hackers-oh-my.md",
+      "record_id": "s01-substack-r000061",
+      "source_id": "136749717",
+      "timestamp": "2023-09-05T13:13:13.570Z",
+      "title": "Hacks, Hacking, and Hackers, Oh My",
+      "uri": "https://engineeringgenerosity.substack.com/p/hacks-hacking-and-hackers-oh-my"
+    },
+    {
+      "markdown_path": "posts/2023-09-12-revising-your-vision.md",
+      "record_id": "s01-substack-r000062",
+      "source_id": "136971060",
+      "timestamp": "2023-09-12T12:53:18.452Z",
+      "title": "Revising Your Vision",
+      "uri": "https://engineeringgenerosity.substack.com/p/revising-your-vision"
+    },
+    {
+      "markdown_path": "posts/2023-09-19-internet-factory-idea-supply-chain.md",
+      "record_id": "s01-substack-r000063",
+      "source_id": "137180774",
+      "timestamp": "2023-09-19T13:04:44.832Z",
+      "title": "Internet Factory -> Idea Supply Chain",
+      "uri": "https://engineeringgenerosity.substack.com/p/internet-factory-idea-supply-chain"
+    },
+    {
+      "markdown_path": "posts/2023-09-26-making-money-with-the-idea-supply.md",
+      "record_id": "s01-substack-r000064",
+      "source_id": "137413462",
+      "timestamp": "2023-09-26T22:52:39.744Z",
+      "title": "Making Money with the Idea Supply Chain",
+      "uri": "https://engineeringgenerosity.substack.com/p/making-money-with-the-idea-supply"
+    },
+    {
+      "markdown_path": "posts/2023-10-03-the-paradox-of-discoverability.md",
+      "record_id": "s01-substack-r000065",
+      "source_id": "137619696",
+      "timestamp": "2023-10-03T13:18:14.790Z",
+      "title": "The Paradox of Discoverability",
+      "uri": "https://engineeringgenerosity.substack.com/p/the-paradox-of-discoverability"
+    },
+    {
+      "markdown_path": "posts/2023-10-10-starting-to-migrate.md",
+      "record_id": "s01-substack-r000066",
+      "source_id": "137836105",
+      "timestamp": "2023-10-10T23:31:08.782Z",
+      "title": "Starting to migrate",
+      "uri": "https://engineeringgenerosity.substack.com/p/starting-to-migrate"
+    },
+    {
+      "markdown_path": "posts/2024-05-06-remember-me.md",
+      "record_id": "s01-substack-r000067",
+      "source_id": "144375803",
+      "timestamp": "2024-05-06T23:56:11.254Z",
+      "title": "Remember me?",
+      "uri": "https://engineeringgenerosity.substack.com/p/remember-me"
+    },
+    {
+      "markdown_path": "posts/2024-05-23-introduction-to-abundant-systems.md",
+      "record_id": "s01-substack-r000068",
+      "source_id": "144909184",
+      "timestamp": "2024-05-23T14:29:18.456Z",
+      "title": "Introduction to Abundant Systems",
+      "uri": "https://engineeringgenerosity.substack.com/p/introduction-to-abundant-systems"
+    },
+    {
+      "markdown_path": "posts/2024-05-27-rebranding-to-engineering-generosity.md",
+      "record_id": "s01-substack-r000069",
+      "source_id": "145028125",
+      "timestamp": "2024-05-27T15:43:55.560Z",
+      "title": "Rebranding to Engineering Generosity",
+      "uri": "https://engineeringgenerosity.substack.com/p/rebranding-to-engineering-generosity"
+    },
+    {
+      "markdown_path": "posts/2024-06-03-what-abundant-systems-feel-like.md",
+      "record_id": "s01-substack-r000070",
+      "source_id": "145177435",
+      "timestamp": "2024-06-03T23:15:29.923Z",
+      "title": "What Abundant Systems Feel Like",
+      "uri": "https://engineeringgenerosity.substack.com/p/what-abundant-systems-feel-like"
+    },
+    {
+      "markdown_path": "posts/2024-06-16-experiment-engineering-an-abundant.md",
+      "record_id": "s01-substack-r000071",
+      "source_id": "145656429",
+      "timestamp": "2024-06-16T17:10:28.940Z",
+      "title": "Experiment: Engineering an Abundant Community",
+      "uri": "https://engineeringgenerosity.substack.com/p/experiment-engineering-an-abundant"
+    },
+    {
+      "markdown_path": "posts/2024-06-23-abundant-systems-for-entrepreneurs.md",
+      "record_id": "s01-substack-r000072",
+      "source_id": "145918110",
+      "timestamp": "2024-06-23T21:07:58.108Z",
+      "title": "Abundant Systems For Entrepreneurs",
+      "uri": "https://engineeringgenerosity.substack.com/p/abundant-systems-for-entrepreneurs"
+    },
+    {
+      "markdown_path": "posts/2024-07-01-the-optimists-manifesto.md",
+      "record_id": "s01-substack-r000073",
+      "source_id": "146148912",
+      "timestamp": "2024-07-01T12:55:58.485Z",
+      "title": "The Optimist's Manifesto",
+      "uri": "https://engineeringgenerosity.substack.com/p/the-optimists-manifesto"
+    },
+    {
+      "markdown_path": "posts/2024-07-12-the-biggest-obstacle-to-scaling-creativity.md",
+      "record_id": "s01-substack-r000074",
+      "source_id": "146380804",
+      "timestamp": "2024-07-12T14:02:21.061Z",
+      "title": "The Biggest Obstacle To Scaling Creativity",
+      "uri": "https://engineeringgenerosity.substack.com/p/the-biggest-obstacle-to-scaling-creativity"
+    },
+    {
+      "markdown_path": "posts/2024-07-17-my-digital-twin-the-secret-weapon.md",
+      "record_id": "s01-substack-r000075",
+      "source_id": "146711951",
+      "timestamp": "2024-07-17T20:32:53.890Z",
+      "title": "My Digital Twin: The Secret Weapon Against Creator Burnout",
+      "uri": "https://engineeringgenerosity.substack.com/p/my-digital-twin-the-secret-weapon"
+    },
+    {
+      "markdown_path": "posts/2024-08-08-simple-is-hard.md",
+      "record_id": "s01-substack-r000076",
+      "source_id": "147487035",
+      "timestamp": "2024-08-08T16:05:11.049Z",
+      "title": "Simple is Hard",
+      "uri": "https://engineeringgenerosity.substack.com/p/simple-is-hard"
+    },
+    {
+      "markdown_path": "posts/2024-08-15-seeing-abundance-everywhere.md",
+      "record_id": "s01-substack-r000077",
+      "source_id": "147743996",
+      "timestamp": "2024-08-15T17:00:10.307Z",
+      "title": "Seeing Abundance Everywhere",
+      "uri": "https://engineeringgenerosity.substack.com/p/seeing-abundance-everywhere"
+    },
+    {
+      "markdown_path": "posts/2024-11-06-political-generosity.md",
+      "record_id": "s01-substack-r000078",
+      "source_id": "151281187",
+      "timestamp": "2024-11-06T17:28:25.088Z",
+      "title": "Political Generosity",
+      "uri": "https://engineeringgenerosity.substack.com/p/political-generosity"
+    },
+    {
+      "markdown_path": "posts/2024-12-05-whats-your-biggest-risk.md",
+      "record_id": "s01-substack-r000079",
+      "source_id": "152618845",
+      "timestamp": "2024-12-05T15:56:03.136Z",
+      "title": "What's your biggest risk?",
+      "uri": "https://engineeringgenerosity.substack.com/p/whats-your-biggest-risk"
+    },
+    {
+      "markdown_path": "posts/2025-01-17-the-key-to-the-future-is-human-insurance.md",
+      "record_id": "s01-substack-r000080",
+      "source_id": "155044056",
+      "timestamp": "2025-01-17T23:25:50.546Z",
+      "title": "The Key to the future is Human Insurance",
+      "uri": "https://engineeringgenerosity.substack.com/p/the-key-to-the-future-is-human-insurance"
+    },
+    {
+      "markdown_path": "posts/2025-02-06-an-open-letter-to-my-past-warning.md",
+      "record_id": "s01-substack-r000081",
+      "source_id": "156605850",
+      "timestamp": "2025-02-06T15:38:46.794Z",
+      "title": "An Open Letter to my Past, Warning of the Storms to Come ",
+      "uri": "https://engineeringgenerosity.substack.com/p/an-open-letter-to-my-past-warning"
+    },
+    {
+      "markdown_path": "posts/2025-03-04-tiny-experiments-in-generosity.md",
+      "record_id": "s01-substack-r000082",
+      "source_id": "158367334",
+      "timestamp": "2025-03-04T15:10:16.015Z",
+      "title": "Tiny Experiments in Generosity",
+      "uri": "https://engineeringgenerosity.substack.com/p/tiny-experiments-in-generosity"
+    },
+    {
+      "markdown_path": "posts/2025-04-02-engineering-friendship.md",
+      "record_id": "s01-substack-r000083",
+      "source_id": "160185798",
+      "timestamp": "2025-04-02T00:04:15.999Z",
+      "title": "Engineering Friendship",
+      "uri": "https://engineeringgenerosity.substack.com/p/engineering-friendship"
+    },
+    {
+      "markdown_path": "posts/2025-06-04-i-figured-out-how-to-engineer-generosity.md",
+      "record_id": "s01-substack-r000084",
+      "source_id": "165222316",
+      "timestamp": "2025-06-04T20:48:02.514Z",
+      "title": "I figured out how to engineer generosity",
+      "uri": "https://engineeringgenerosity.substack.com/p/i-figured-out-how-to-engineer-generosity"
+    },
+    {
+      "markdown_path": "posts/2025-06-10-welcome-to-the-singularity.md",
+      "record_id": "s01-substack-r000085",
+      "source_id": "165591932",
+      "timestamp": "2025-06-10T03:40:06.729Z",
+      "title": "Welcome to the Singularity",
+      "uri": "https://engineeringgenerosity.substack.com/p/welcome-to-the-singularity"
+    },
+    {
+      "markdown_path": "posts/2025-06-27-what-if-we-built-an-internet-where.md",
+      "record_id": "s01-substack-r000086",
+      "source_id": "166998110",
+      "timestamp": "2025-06-27T19:28:08.202Z",
+      "title": "What if we built an internet where we didn't need to cheat?",
+      "uri": "https://engineeringgenerosity.substack.com/p/what-if-we-built-an-internet-where"
+    },
+    {
+      "markdown_path": "posts/2025-07-01-july-4-is-when-we-celebrate-our-temporal.md",
+      "record_id": "s01-substack-r000087",
+      "source_id": "166984102",
+      "timestamp": "2025-07-01T19:57:31.968Z",
+      "title": "July 4 is when we celebrate our Temporal Independence",
+      "uri": "https://engineeringgenerosity.substack.com/p/july-4-is-when-we-celebrate-our-temporal"
+    },
+    {
+      "markdown_path": "posts/2025-07-26-what-i-learned-from-spending-4-days.md",
+      "record_id": "s01-substack-r000088",
+      "source_id": "168286754",
+      "timestamp": "2025-07-26T13:56:23.219Z",
+      "title": "What I Learned From Spending 4 Days In the Woods With A Bunch of Internet Weirdos",
+      "uri": "https://engineeringgenerosity.substack.com/p/what-i-learned-from-spending-4-days"
+    },
+    {
+      "markdown_path": "posts/2025-08-06-hitting-reset-on-life.md",
+      "record_id": "s01-substack-r000089",
+      "source_id": "170218189",
+      "timestamp": "2025-08-06T13:10:43.947Z",
+      "title": "Hitting Reset on Life",
+      "uri": "https://engineeringgenerosity.substack.com/p/hitting-reset-on-life"
+    },
+    {
+      "markdown_path": "posts/2025-08-13-a-week-after-clarity-uncertainty.md",
+      "record_id": "s01-substack-r000090",
+      "source_id": "170883601",
+      "timestamp": "2025-08-13T14:53:26.758Z",
+      "title": "A Week After Clarity? Uncertainty.",
+      "uri": "https://engineeringgenerosity.substack.com/p/a-week-after-clarity-uncertainty"
+    },
+    {
+      "markdown_path": "posts/2025-09-10-today-we-have-a-choice-love-or-hate.md",
+      "record_id": "s01-substack-r000091",
+      "source_id": "173305521",
+      "timestamp": "2025-09-10T23:19:53.089Z",
+      "title": "Today, We Have a Choice: Love or Hate",
+      "uri": "https://engineeringgenerosity.substack.com/p/today-we-have-a-choice-love-or-hate"
+    },
+    {
+      "markdown_path": "posts/2025-10-01-what-it-feels-like-to-be-poor.md",
+      "record_id": "s01-substack-r000092",
+      "source_id": "175058719",
+      "timestamp": "2025-10-01T21:08:45.135Z",
+      "title": "What it feels like to be poor",
+      "uri": "https://engineeringgenerosity.substack.com/p/what-it-feels-like-to-be-poor"
+    },
+    {
+      "markdown_path": "posts/2025-10-08-what-it-feels-like-to-be-rich.md",
+      "record_id": "s01-substack-r000093",
+      "source_id": "175614458",
+      "timestamp": "2025-10-08T12:24:52.604Z",
+      "title": "What It Feels Like To Be Rich",
+      "uri": "https://engineeringgenerosity.substack.com/p/what-it-feels-like-to-be-rich"
+    },
+    {
+      "markdown_path": "posts/2025-10-10-what-does-it-take-to-build-trust.md",
+      "record_id": "s01-substack-r000094",
+      "source_id": "175791018",
+      "timestamp": "2025-10-10T11:55:20.899Z",
+      "title": "What does it take to build trust?",
+      "uri": "https://engineeringgenerosity.substack.com/p/what-does-it-take-to-build-trust"
+    },
+    {
+      "markdown_path": "posts/2025-10-28-what-happens-when-a-country-starves.md",
+      "record_id": "s01-substack-r000095",
+      "source_id": "177363448",
+      "timestamp": "2025-10-28T12:38:59.135Z",
+      "title": "What Happens When A Country Starves?",
+      "uri": "https://engineeringgenerosity.substack.com/p/what-happens-when-a-country-starves"
+    },
+    {
+      "markdown_path": "posts/2025-11-14-the-love-manifesto.md",
+      "record_id": "s01-substack-r000096",
+      "source_id": "178923004",
+      "timestamp": "2025-11-14T20:09:05.737Z",
+      "title": "❤️ THE LOVE MANIFESTO",
+      "uri": "https://engineeringgenerosity.substack.com/p/the-love-manifesto"
+    },
+    {
+      "markdown_path": "posts/2025-11-17-the-bill-that-didnt-break-the-camels.md",
+      "record_id": "s01-substack-r000097",
+      "source_id": "179138435",
+      "timestamp": "2025-11-17T13:13:48.110Z",
+      "title": "The Bill that Didn't Break The Camel's Back",
+      "uri": "https://engineeringgenerosity.substack.com/p/the-bill-that-didnt-break-the-camels"
+    }
+  ],
+  "publication": "https://engineeringgenerosity.substack.com",
+  "source_config_fingerprint": "03be458cb632303040a556660157b80f13e4b226d9fd26e0366deda388099d1f"
+}

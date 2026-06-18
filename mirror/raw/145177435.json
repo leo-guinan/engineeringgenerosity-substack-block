@@ -1,0 +1,243 @@
+{
+  "audience": "everyone",
+  "audio_items": [
+    {
+      "audio_url": "https://substack-video.s3.amazonaws.com/video_upload/post/145177435/tts/467f5fea-95c3-47a7-9e3e-bd633e3670c7/en-US-JennyNeural.mp3",
+      "post_id": 145177435,
+      "status": "completed",
+      "type": "tts",
+      "voice_id": "en-US-JennyNeural"
+    }
+  ],
+  "body_html": null,
+  "body_json": null,
+  "canonical_url": "https://engineeringgenerosity.substack.com/p/what-abundant-systems-feel-like",
+  "child_comment_count": 1,
+  "comment_count": 2,
+  "coverImagePalette": {
+    "DarkMuted": {
+      "population": 9,
+      "rgb": [
+        52,
+        52,
+        60
+      ]
+    },
+    "DarkVibrant": {
+      "population": 3,
+      "rgb": [
+        12,
+        57,
+        86
+      ]
+    },
+    "LightMuted": {
+      "population": 16,
+      "rgb": [
+        152,
+        153,
+        153
+      ]
+    },
+    "LightVibrant": {
+      "population": 0,
+      "rgb": [
+        136.97905759162305,
+        200.15497382198953,
+        240.42094240837696
+      ]
+    },
+    "Muted": {
+      "population": 222,
+      "rgb": [
+        115,
+        117,
+        117
+      ]
+    },
+    "Vibrant": {
+      "population": 6,
+      "rgb": [
+        21,
+        112,
+        170
+      ]
+    }
+  },
+  "cover_image": "https://substackcdn.com/image/fetch/$s_!7WW1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F416f2e1b-affe-4c13-9803-bb86f6df3cfc_1194x890.png",
+  "cover_image_is_explicit": false,
+  "cover_image_is_square": false,
+  "default_comment_sort": null,
+  "description": "Sometimes it can be hard to explain, but you know it when you feel it.",
+  "editor_v2": false,
+  "free_unlock_required": false,
+  "hasCashtag": false,
+  "has_dynamic_content": false,
+  "has_voiceover": false,
+  "headlineTest": null,
+  "id": 145177435,
+  "is_geoblocked": false,
+  "is_section_pinned": false,
+  "language": "en",
+  "pins": [],
+  "podcastFields": {
+    "draft_free_podcast_duration": null,
+    "draft_free_podcast_url": null,
+    "free_podcast_duration": null,
+    "free_podcast_url": null,
+    "hide_from_feed": false,
+    "podcast_episode_number": null,
+    "podcast_episode_type": null,
+    "podcast_season_number": null,
+    "post_id": 145177435,
+    "preview_contains_ad": false,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "was_imported_self_serve_sync": false
+  },
+  "podcastPreviewUpload": null,
+  "podcastUpload": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "postCountryBlocks": [],
+  "postTags": [
+    {
+      "hidden": false,
+      "id": "2a186a9c-323f-4467-bb8f-03320b4b7e9b",
+      "name": "Feelings",
+      "publication_id": 294536,
+      "slug": "feelings"
+    },
+    {
+      "hidden": false,
+      "id": "4ea31dee-a9a4-419a-8245-4e2a6e209289",
+      "name": "Foster",
+      "publication_id": 294536,
+      "slug": "foster"
+    },
+    {
+      "hidden": false,
+      "id": "65677a4d-fb54-43ab-b534-025c70ab893a",
+      "name": "Abundant Economic Systems",
+      "publication_id": 294536,
+      "slug": "abundant-economic-systems"
+    }
+  ],
+  "post_date": "2024-06-03T23:15:29.923Z",
+  "post_preview_limit": null,
+  "publication_id": 294536,
+  "publishedBylines": [
+    {
+      "bestseller_tier": null,
+      "bio": "Hitchhiker to the Future. Mapping waystations. Building what comes after the collapse. Follow the symbols to find the humans. ORI",
+      "handle": "hitchhikertothefuture",
+      "id": 24975997,
+      "is_guest": false,
+      "name": "Leo Guinan",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/f551a560-e6ba-47f9-8cbf-0922cd0fcec1_1330x1330.jpeg",
+      "previous_name": null,
+      "profile_set_up_at": "2022-04-27T11:11:46.207Z",
+      "publicationUsers": [
+        {
+          "id": 5340464,
+          "is_primary": true,
+          "public": true,
+          "publication": {
+            "author_id": 24975997,
+            "community_enabled": true,
+            "copyright": "Leo Guinan",
+            "created_at": "2025-06-04T14:48:10.377Z",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "email_from_name": null,
+            "explicit": false,
+            "founding_plan_name": "Bottega Patron",
+            "hero_text": "Notes from the future to help me build my lab.",
+            "homepage_type": "newspaper",
+            "id": 5235543,
+            "invite_only": false,
+            "is_personal_mode": false,
+            "language": null,
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/3e7d4b88-a8a4-4b37-925d-70c78039925c_768x768.png",
+            "logo_url_wide": null,
+            "name": "Hitchhiker's Guide to the Future",
+            "payments_state": "disabled",
+            "primary_user_id": 24975997,
+            "subdomain": "hitchhikertothefuture",
+            "theme_var_background_pop": "#FF6719"
+          },
+          "publication_id": 5235543,
+          "role": "admin",
+          "user_id": 24975997
+        },
+        {
+          "id": 235330,
+          "is_primary": false,
+          "public": true,
+          "publication": {
+            "author_id": 24975997,
+            "community_enabled": true,
+            "copyright": "Leo Guinan",
+            "created_at": "2021-02-22T22:50:09.248Z",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "email_from_name": null,
+            "explicit": false,
+            "founding_plan_name": "Abundance Generator",
+            "hero_text": "In the world of AI, it's important that we start building abundant systems instead of scarce ones. I'll be showing you what abundant systems look like, why they are important, and what the consequences are and will be if we don't.",
+            "homepage_type": null,
+            "id": 294536,
+            "invite_only": false,
+            "is_personal_mode": false,
+            "language": null,
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/c67b0e0f-0464-4c5c-8d94-7d39adc91df6_1024x1024.png",
+            "logo_url_wide": null,
+            "name": "Engineering Generosity",
+            "payments_state": "disabled",
+            "primary_user_id": null,
+            "subdomain": "engineeringgenerosity",
+            "theme_var_background_pop": "#786CFF"
+          },
+          "publication_id": 294536,
+          "role": "admin",
+          "user_id": 24975997
+        }
+      ],
+      "reader_installed_at": "2022-11-03T20:07:02.413Z",
+      "status": null,
+      "twitter_screen_name": "leo_guinan"
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 5,
+  "reactions": {
+    "❤": 5
+  },
+  "restacked_post_id": null,
+  "restacked_post_slug": null,
+  "restacked_pub_logo_url": null,
+  "restacked_pub_name": null,
+  "restacks": 1,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "section_name": null,
+  "section_slug": null,
+  "should_send_free_preview": false,
+  "slug": "what-abundant-systems-feel-like",
+  "social_title": null,
+  "subtitle": "Sometimes it can be hard to explain, but you know it when you feel it.",
+  "teaser_post_eligible": true,
+  "title": "What Abundant Systems Feel Like",
+  "top_exclusions": [],
+  "truncated_body_text": "When it comes to writing, I tend to intellectualize everything - I think about a topic from lots of different angles, I break it down into specific pieces, and I push out the words in structures that fit those pieces. I see the world in systems, data, and numbers. If you like those things, you’ll enjoy the majority of my writing.",
+  "type": "newsletter",
+  "videoUpload": null,
+  "video_upload_id": null,
+  "voiceoverUpload": null,
+  "voiceover_upload_id": null,
+  "wordcount": 3010,
+  "write_comment_permissions": "everyone"
+}

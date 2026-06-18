@@ -1,0 +1,1763 @@
+{
+  "block_id": "engineeringgenerosity-substack",
+  "created_at": "2026-06-18T15:19:47Z",
+  "records": [
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2021-02-22-coming-soon.md",
+        "raw_path": "raw/32829621.json",
+        "reaction_count": 1,
+        "slug": "coming-soon",
+        "subtitle": null,
+        "wordcount": 23
+      },
+      "record_id": "s01-substack-r000001",
+      "source_id": "32829621",
+      "source_type": "substack",
+      "text": "Exploring how ADHD affects my life and company as I build out my startup.\n\nWelcome to Engineering Generosity by me, Leo Guinan.",
+      "timestamp": "2021-02-22T22:50:09.437Z",
+      "title": "Exploring how ADHD affects my life and company as I build out my startup.",
+      "uri": "https://engineeringgenerosity.substack.com/p/coming-soon"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2021-02-22-how-does-adhd-affect-a-company.md",
+        "raw_path": "raw/32830688.json",
+        "reaction_count": 2,
+        "slug": "how-does-adhd-affect-a-company",
+        "subtitle": "Reflections on where I am and where I am going",
+        "wordcount": 1094
+      },
+      "record_id": "s01-substack-r000002",
+      "source_id": "32830688",
+      "source_type": "substack",
+      "text": "How Does ADHD Affect A Company?\n\nReflections on where I am and where I am going",
+      "timestamp": "2021-02-22T23:48:48.495Z",
+      "title": "How Does ADHD Affect A Company?",
+      "uri": "https://engineeringgenerosity.substack.com/p/how-does-adhd-affect-a-company"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2021-02-24-next-topic-poll.md",
+        "raw_path": "raw/32917512.json",
+        "reaction_count": 2,
+        "slug": "next-topic-poll",
+        "subtitle": "Help me decide!",
+        "wordcount": 28
+      },
+      "record_id": "s01-substack-r000003",
+      "source_id": "32917512",
+      "source_type": "substack",
+      "text": "Next Topic Poll\n\nHelp me decide!",
+      "timestamp": "2021-02-24T21:39:23.641Z",
+      "title": "Next Topic Poll",
+      "uri": "https://engineeringgenerosity.substack.com/p/next-topic-poll"
+    },
+    {
+      "metadata": {
+        "comment_count": 2,
+        "markdown_path": "posts/2021-02-26-oversharing-and-investors.md",
+        "raw_path": "raw/32953443.json",
+        "reaction_count": 1,
+        "slug": "oversharing-and-investors",
+        "subtitle": "When You Want People To Give You Money, Don't Do What I Did ",
+        "wordcount": 975
+      },
+      "record_id": "s01-substack-r000004",
+      "source_id": "32953443",
+      "source_type": "substack",
+      "text": "Oversharing and Investors\n\nWhen You Want People To Give You Money, Don't Do What I Did ",
+      "timestamp": "2021-02-26T15:33:13.043Z",
+      "title": "Oversharing and Investors",
+      "uri": "https://engineeringgenerosity.substack.com/p/oversharing-and-investors"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2021-03-14-decisions-decisions-decisions.md",
+        "raw_path": "raw/33385158.json",
+        "reaction_count": 0,
+        "slug": "decisions-decisions-decisions",
+        "subtitle": "So Many Decisions",
+        "wordcount": 529
+      },
+      "record_id": "s01-substack-r000005",
+      "source_id": "33385158",
+      "source_type": "substack",
+      "text": "Decisions, Decisions, Decisions!\n\nSo Many Decisions",
+      "timestamp": "2021-03-14T15:57:31.602Z",
+      "title": "Decisions, Decisions, Decisions!",
+      "uri": "https://engineeringgenerosity.substack.com/p/decisions-decisions-decisions"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2021-03-22-complexity-and-adhd.md",
+        "raw_path": "raw/33804543.json",
+        "reaction_count": 0,
+        "slug": "complexity-and-adhd",
+        "subtitle": "The Potential Startup Pitfall",
+        "wordcount": 389
+      },
+      "record_id": "s01-substack-r000006",
+      "source_id": "33804543",
+      "source_type": "substack",
+      "text": "Complexity and ADHD\n\nThe Potential Startup Pitfall",
+      "timestamp": "2021-03-22T00:41:17.375Z",
+      "title": "Complexity and ADHD",
+      "uri": "https://engineeringgenerosity.substack.com/p/complexity-and-adhd"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2021-03-30-the-beauty-of-iteration.md",
+        "raw_path": "raw/34526972.json",
+        "reaction_count": 0,
+        "slug": "the-beauty-of-iteration",
+        "subtitle": "",
+        "wordcount": 364
+      },
+      "record_id": "s01-substack-r000007",
+      "source_id": "34526972",
+      "source_type": "substack",
+      "text": "The Beauty of Iteration\n\nTarget delivery: Sunday.",
+      "timestamp": "2021-03-30T16:00:03.038Z",
+      "title": "The Beauty of Iteration",
+      "uri": "https://engineeringgenerosity.substack.com/p/the-beauty-of-iteration"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2021-04-09-big-news.md",
+        "raw_path": "raw/34972441.json",
+        "reaction_count": 0,
+        "slug": "big-news",
+        "subtitle": "Let's make this as big as it can be",
+        "wordcount": 341
+      },
+      "record_id": "s01-substack-r000008",
+      "source_id": "34972441",
+      "source_type": "substack",
+      "text": "Big News!\n\nLet's make this as big as it can be",
+      "timestamp": "2021-04-09T21:39:05.604Z",
+      "title": "Big News!",
+      "uri": "https://engineeringgenerosity.substack.com/p/big-news"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2021-04-11-the-effects-of-prolonged-masking.md",
+        "raw_path": "raw/35030374.json",
+        "reaction_count": 0,
+        "slug": "the-effects-of-prolonged-masking",
+        "subtitle": "",
+        "wordcount": 731
+      },
+      "record_id": "s01-substack-r000009",
+      "source_id": "35030374",
+      "source_type": "substack",
+      "text": "The Effects of Prolonged Masking\n\nThis is something I have been spending a lot of time on this week.",
+      "timestamp": "2021-04-11T21:48:17.577Z",
+      "title": "The Effects of Prolonged Masking",
+      "uri": "https://engineeringgenerosity.substack.com/p/the-effects-of-prolonged-masking"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2021-06-11-long-time-no-see.md",
+        "raw_path": "raw/37497152.json",
+        "reaction_count": 0,
+        "slug": "long-time-no-see",
+        "subtitle": "Sorry about that.",
+        "wordcount": 776
+      },
+      "record_id": "s01-substack-r000010",
+      "source_id": "37497152",
+      "source_type": "substack",
+      "text": "Long Time, No See\n\nSorry about that.",
+      "timestamp": "2021-06-11T20:29:38.855Z",
+      "title": "Long Time, No See",
+      "uri": "https://engineeringgenerosity.substack.com/p/long-time-no-see"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2021-06-27-the-power-of-community.md",
+        "raw_path": "raw/38096478.json",
+        "reaction_count": 0,
+        "slug": "the-power-of-community",
+        "subtitle": "And How That Helps Neurodivergent Entrepreneurs",
+        "wordcount": 731
+      },
+      "record_id": "s01-substack-r000011",
+      "source_id": "38096478",
+      "source_type": "substack",
+      "text": "The Power of Community\n\nAnd How That Helps Neurodivergent Entrepreneurs",
+      "timestamp": "2021-06-27T18:34:30.004Z",
+      "title": "The Power of Community",
+      "uri": "https://engineeringgenerosity.substack.com/p/the-power-of-community"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2021-07-22-procrastination-and-shame.md",
+        "raw_path": "raw/38884243.json",
+        "reaction_count": 0,
+        "slug": "procrastination-and-shame",
+        "subtitle": "Reflections from the Past 2 Weeks",
+        "wordcount": 1216
+      },
+      "record_id": "s01-substack-r000012",
+      "source_id": "38884243",
+      "source_type": "substack",
+      "text": "Procrastination and Shame\n\nReflections from the Past 2 Weeks",
+      "timestamp": "2021-07-22T18:15:43.513Z",
+      "title": "Procrastination and Shame",
+      "uri": "https://engineeringgenerosity.substack.com/p/procrastination-and-shame"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2022-04-25-a-new-direction-adhd-startup-becomes.md",
+        "raw_path": "raw/52856764.json",
+        "reaction_count": 0,
+        "slug": "a-new-direction-adhd-startup-becomes",
+        "subtitle": "I've been really bad at newsletters. That changes now because I've figured out what I really enjoy doing and writing about.",
+        "wordcount": 622
+      },
+      "record_id": "s01-substack-r000013",
+      "source_id": "52856764",
+      "source_type": "substack",
+      "text": "A New Direction -> ADHD Startup becomes the SaaS Factory\n\nI've been really bad at newsletters. That changes now because I've figured out what I really enjoy doing and writing about.",
+      "timestamp": "2022-04-25T22:13:05.838Z",
+      "title": "A New Direction -> ADHD Startup becomes the SaaS Factory",
+      "uri": "https://engineeringgenerosity.substack.com/p/a-new-direction-adhd-startup-becomes"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2022-04-29-saas-product-1-feather-crm.md",
+        "raw_path": "raw/52988343.json",
+        "reaction_count": 0,
+        "slug": "saas-product-1-feather-crm",
+        "subtitle": "Let's start with the product that exists",
+        "wordcount": 2199
+      },
+      "record_id": "s01-substack-r000014",
+      "source_id": "52988343",
+      "source_type": "substack",
+      "text": "SaaS Product 1 - Feather CRM\n\nLet's start with the product that exists",
+      "timestamp": "2022-04-29T22:03:18.690Z",
+      "title": "SaaS Product 1 - Feather CRM",
+      "uri": "https://engineeringgenerosity.substack.com/p/saas-product-1-feather-crm"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2022-05-04-greetings-from-miami.md",
+        "raw_path": "raw/53466972.json",
+        "reaction_count": 1,
+        "slug": "greetings-from-miami",
+        "subtitle": "Didn't hit my self-imposed deadline to launch my first new microsaas, but that's ok.",
+        "wordcount": 857
+      },
+      "record_id": "s01-substack-r000015",
+      "source_id": "53466972",
+      "source_type": "substack",
+      "text": "Greetings From Miami!\n\nDidn't hit my self-imposed deadline to launch my first new microsaas, but that's ok.",
+      "timestamp": "2022-05-04T20:55:23.066Z",
+      "title": "Greetings From Miami!",
+      "uri": "https://engineeringgenerosity.substack.com/p/greetings-from-miami"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2022-05-08-prepping-to-go-live-whoshouldiunfollowcom.md",
+        "raw_path": "raw/54026317.json",
+        "reaction_count": 0,
+        "slug": "prepping-to-go-live-whoshouldiunfollowcom",
+        "subtitle": "Hanging out on the lake and writing some code",
+        "wordcount": 1390
+      },
+      "record_id": "s01-substack-r000016",
+      "source_id": "54026317",
+      "source_type": "substack",
+      "text": "Prepping to go live -> whoshouldIunfollow.com\n\nHanging out on the lake and writing some code",
+      "timestamp": "2022-05-08T18:36:36.806Z",
+      "title": "Prepping to go live -> whoshouldIunfollow.com",
+      "uri": "https://engineeringgenerosity.substack.com/p/prepping-to-go-live-whoshouldiunfollowcom"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2022-05-14-updating-my-approach-to-authentication.md",
+        "raw_path": "raw/54467526.json",
+        "reaction_count": 0,
+        "slug": "updating-my-approach-to-authentication",
+        "subtitle": "Finally got a bunch of things working. Only to realize that they didn't really work.",
+        "wordcount": 1161
+      },
+      "record_id": "s01-substack-r000017",
+      "source_id": "54467526",
+      "source_type": "substack",
+      "text": "Updating My Approach To Authentication\n\nFinally got a bunch of things working. Only to realize that they didn't really work.",
+      "timestamp": "2022-05-14T14:16:08.719Z",
+      "title": "Updating My Approach To Authentication",
+      "uri": "https://engineeringgenerosity.substack.com/p/updating-my-approach-to-authentication"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2022-05-21-my-new-role-firefighter.md",
+        "raw_path": "raw/55939574.json",
+        "reaction_count": 0,
+        "slug": "my-new-role-firefighter",
+        "subtitle": "It's Been a Rollercoaster Ride This Week",
+        "wordcount": 1857
+      },
+      "record_id": "s01-substack-r000018",
+      "source_id": "55939574",
+      "source_type": "substack",
+      "text": "My New Role: Firefighter\n\nIt's Been a Rollercoaster Ride This Week",
+      "timestamp": "2022-05-21T15:17:24.438Z",
+      "title": "My New Role: Firefighter",
+      "uri": "https://engineeringgenerosity.substack.com/p/my-new-role-firefighter"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2022-05-23-production-ready-at-last.md",
+        "raw_path": "raw/56126779.json",
+        "reaction_count": 0,
+        "slug": "production-ready-at-last",
+        "subtitle": "Took longer than I hoped, but I got there. ",
+        "wordcount": 1599
+      },
+      "record_id": "s01-substack-r000019",
+      "source_id": "56126779",
+      "source_type": "substack",
+      "text": "Production Ready At Last\n\nTook longer than I hoped, but I got there. ",
+      "timestamp": "2022-05-23T00:00:50.328Z",
+      "title": "Production Ready At Last",
+      "uri": "https://engineeringgenerosity.substack.com/p/production-ready-at-last"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2022-05-28-getting-around-rate-limits.md",
+        "raw_path": "raw/56278200.json",
+        "reaction_count": 0,
+        "slug": "getting-around-rate-limits",
+        "subtitle": "Let's talk software design for a minute.",
+        "wordcount": 1642
+      },
+      "record_id": "s01-substack-r000020",
+      "source_id": "56278200",
+      "source_type": "substack",
+      "text": "Getting Around Rate Limits\n\nLet's talk software design for a minute.",
+      "timestamp": "2022-05-28T20:45:26.856Z",
+      "title": "Getting Around Rate Limits",
+      "uri": "https://engineeringgenerosity.substack.com/p/getting-around-rate-limits"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2022-06-08-enabling-payments-and-other-news.md",
+        "raw_path": "raw/58300715.json",
+        "reaction_count": 0,
+        "slug": "enabling-payments-and-other-news",
+        "subtitle": "Fighting off a sickness but still making some progress",
+        "wordcount": 2167
+      },
+      "record_id": "s01-substack-r000021",
+      "source_id": "58300715",
+      "source_type": "substack",
+      "text": "Enabling Payments and Other News\n\nFighting off a sickness but still making some progress",
+      "timestamp": "2022-06-08T00:32:22.218Z",
+      "title": "Enabling Payments and Other News",
+      "uri": "https://engineeringgenerosity.substack.com/p/enabling-payments-and-other-news"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2022-06-13-the-code-review-react-nextjsblitzjs.md",
+        "raw_path": "raw/59181509.json",
+        "reaction_count": 0,
+        "slug": "the-code-review-react-nextjsblitzjs",
+        "subtitle": "Recapping my Sunday of Coding",
+        "wordcount": 1618
+      },
+      "record_id": "s01-substack-r000022",
+      "source_id": "59181509",
+      "source_type": "substack",
+      "text": "The Code Review - React + NextJS/BlitzJS SWR Hooks\n\nRecapping my Sunday of Coding",
+      "timestamp": "2022-06-13T22:57:22.603Z",
+      "title": "The Code Review - React + NextJS/BlitzJS SWR Hooks",
+      "uri": "https://engineeringgenerosity.substack.com/p/the-code-review-react-nextjsblitzjs"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2022-06-18-marketing-101-building-product-awareness.md",
+        "raw_path": "raw/60025785.json",
+        "reaction_count": 0,
+        "slug": "marketing-101-building-product-awareness",
+        "subtitle": "Didn't quite go as smoothly as I was hoping, but we're getting there!",
+        "wordcount": 1690
+      },
+      "record_id": "s01-substack-r000023",
+      "source_id": "60025785",
+      "source_type": "substack",
+      "text": "Marketing 101 - Building Product Awareness\n\nDidn't quite go as smoothly as I was hoping, but we're getting there!",
+      "timestamp": "2022-06-18T15:30:15.419Z",
+      "title": "Marketing 101 - Building Product Awareness",
+      "uri": "https://engineeringgenerosity.substack.com/p/marketing-101-building-product-awareness"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2022-06-23-the-code-review-data-models.md",
+        "raw_path": "raw/60676848.json",
+        "reaction_count": 1,
+        "slug": "the-code-review-data-models",
+        "subtitle": "The Great Feather Migration",
+        "wordcount": 1199
+      },
+      "record_id": "s01-substack-r000024",
+      "source_id": "60676848",
+      "source_type": "substack",
+      "text": "The Code Review: Data Models\n\nThe Great Feather Migration",
+      "timestamp": "2022-06-23T13:02:41.992Z",
+      "title": "The Code Review: Data Models",
+      "uri": "https://engineeringgenerosity.substack.com/p/the-code-review-data-models"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2022-07-08-change-evolution-announcements-and.md",
+        "raw_path": "raw/62547074.json",
+        "reaction_count": 0,
+        "slug": "change-evolution-announcements-and",
+        "subtitle": "It's been a really busy 2 weeks. Here's what's coming.",
+        "wordcount": 1194
+      },
+      "record_id": "s01-substack-r000025",
+      "source_id": "62547074",
+      "source_type": "substack",
+      "text": "Change, Evolution, Announcements, and Updates\n\nIt's been a really busy 2 weeks. Here's what's coming.",
+      "timestamp": "2022-07-08T23:55:20.249Z",
+      "title": "Change, Evolution, Announcements, and Updates",
+      "uri": "https://engineeringgenerosity.substack.com/p/change-evolution-announcements-and"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2022-07-22-saas-factory-fortnightly-update-beta.md",
+        "raw_path": "raw/64688154.json",
+        "reaction_count": 0,
+        "slug": "saas-factory-fortnightly-update-beta",
+        "subtitle": "Launched the beta, got a little bit of feedback, and changed the code quite a bit.",
+        "wordcount": 1540
+      },
+      "record_id": "s01-substack-r000026",
+      "source_id": "64688154",
+      "source_type": "substack",
+      "text": "SaaS Factory Fortnightly Update: Beta Launch\n\nLaunched the beta, got a little bit of feedback, and changed the code quite a bit.",
+      "timestamp": "2022-07-22T14:09:09.455Z",
+      "title": "SaaS Factory Fortnightly Update: Beta Launch",
+      "uri": "https://engineeringgenerosity.substack.com/p/saas-factory-fortnightly-update-beta"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2022-08-01-saas-factory-update-wins-losses.md",
+        "raw_path": "raw/66323128.json",
+        "reaction_count": 0,
+        "slug": "saas-factory-update-wins-losses",
+        "subtitle": "Delayed Launch, Lost Blog, and other Fun",
+        "wordcount": 1981
+      },
+      "record_id": "s01-substack-r000027",
+      "source_id": "66323128",
+      "source_type": "substack",
+      "text": "SaaS Factory Update: Wins + Losses\n\nDelayed Launch, Lost Blog, and other Fun",
+      "timestamp": "2022-08-01T14:21:26.799Z",
+      "title": "SaaS Factory Update: Wins + Losses",
+      "uri": "https://engineeringgenerosity.substack.com/p/saas-factory-update-wins-losses"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2022-08-13-saas-factory-revenue-setbacks-and.md",
+        "raw_path": "raw/68489500.json",
+        "reaction_count": 1,
+        "slug": "saas-factory-revenue-setbacks-and",
+        "subtitle": "Plus Updates on My Bot Army",
+        "wordcount": 1164
+      },
+      "record_id": "s01-substack-r000028",
+      "source_id": "68489500",
+      "source_type": "substack",
+      "text": "SaaS Factory - Revenue, Setbacks, and Launches, Oh My!\n\nPlus Updates on My Bot Army",
+      "timestamp": "2022-08-13T16:09:50.096Z",
+      "title": "SaaS Factory - Revenue, Setbacks, and Launches, Oh My!",
+      "uri": "https://engineeringgenerosity.substack.com/p/saas-factory-revenue-setbacks-and"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2022-08-15-launch-is-live.md",
+        "raw_path": "raw/68688237.json",
+        "reaction_count": 0,
+        "slug": "launch-is-live",
+        "subtitle": "Didn't think I would make it, but here we are.",
+        "wordcount": 320
+      },
+      "record_id": "s01-substack-r000029",
+      "source_id": "68688237",
+      "source_type": "substack",
+      "text": "Launch Is Live!\n\nDidn't think I would make it, but here we are.",
+      "timestamp": "2022-08-15T08:00:37.246Z",
+      "title": "Launch Is Live!",
+      "uri": "https://engineeringgenerosity.substack.com/p/launch-is-live"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2022-08-27-saas-factory-launch-recap-whats-next.md",
+        "raw_path": "raw/70596599.json",
+        "reaction_count": 1,
+        "slug": "saas-factory-launch-recap-whats-next",
+        "subtitle": "Overall, quite happy with how things went.",
+        "wordcount": 1428
+      },
+      "record_id": "s01-substack-r000030",
+      "source_id": "70596599",
+      "source_type": "substack",
+      "text": "SaaS Factory - Launch Recap + What's Next?\n\nOverall, quite happy with how things went.",
+      "timestamp": "2022-08-27T17:25:08.249Z",
+      "title": "SaaS Factory - Launch Recap + What's Next?",
+      "uri": "https://engineeringgenerosity.substack.com/p/saas-factory-launch-recap-whats-next"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2022-09-12-saas-factory-updates-announcements.md",
+        "raw_path": "raw/72319122.json",
+        "reaction_count": 0,
+        "slug": "saas-factory-updates-announcements",
+        "subtitle": "Strap in. This issue has a lot to it.",
+        "wordcount": 2921
+      },
+      "record_id": "s01-substack-r000031",
+      "source_id": "72319122",
+      "source_type": "substack",
+      "text": "SaaS Factory - Updates, Announcements, and How We Teach Machines\n\nStrap in. This issue has a lot to it.",
+      "timestamp": "2022-09-12T00:40:29.476Z",
+      "title": "SaaS Factory - Updates, Announcements, and How We Teach Machines",
+      "uri": "https://engineeringgenerosity.substack.com/p/saas-factory-updates-announcements"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2022-09-26-saas-factory-a-giant-screwup-and.md",
+        "raw_path": "raw/74946618.json",
+        "reaction_count": 0,
+        "slug": "saas-factory-a-giant-screwup-and",
+        "subtitle": "Time to dig myself out of the hole I put myself in",
+        "wordcount": 1391
+      },
+      "record_id": "s01-substack-r000032",
+      "source_id": "74946618",
+      "source_type": "substack",
+      "text": "SaaS Factory: A Giant Screwup and Looking To The Past For Inspiration\n\nTime to dig myself out of the hole I put myself in",
+      "timestamp": "2022-09-26T14:01:49.228Z",
+      "title": "SaaS Factory: A Giant Screwup and Looking To The Past For Inspiration",
+      "uri": "https://engineeringgenerosity.substack.com/p/saas-factory-a-giant-screwup-and"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2022-10-12-saasfactory-update-the-content-factory.md",
+        "raw_path": "raw/77416369.json",
+        "reaction_count": 0,
+        "slug": "saasfactory-update-the-content-factory",
+        "subtitle": "Applying the same principles to content that I do to code",
+        "wordcount": 1432
+      },
+      "record_id": "s01-substack-r000033",
+      "source_id": "77416369",
+      "source_type": "substack",
+      "text": "SaaSFactory Update: The Content Factory\n\nApplying the same principles to content that I do to code",
+      "timestamp": "2022-10-12T13:01:00.270Z",
+      "title": "SaaSFactory Update: The Content Factory",
+      "uri": "https://engineeringgenerosity.substack.com/p/saasfactory-update-the-content-factory"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2022-10-27-saas-factory-the-big-idea-to-feature.md",
+        "raw_path": "raw/80666183.json",
+        "reaction_count": 0,
+        "slug": "saas-factory-the-big-idea-to-feature",
+        "subtitle": "Plus some thoughts on the AI Hype Bubble that's building",
+        "wordcount": 1485
+      },
+      "record_id": "s01-substack-r000034",
+      "source_id": "80666183",
+      "source_type": "substack",
+      "text": "SaaS Factory: The Big Idea to Feature Pipeline\n\nPlus some thoughts on the AI Hype Bubble that's building",
+      "timestamp": "2022-10-27T13:50:48.925Z",
+      "title": "SaaS Factory: The Big Idea to Feature Pipeline",
+      "uri": "https://engineeringgenerosity.substack.com/p/saas-factory-the-big-idea-to-feature"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2022-11-22-thoughts-on-the-future-of-twitter.md",
+        "raw_path": "raw/85765599.json",
+        "reaction_count": 0,
+        "slug": "thoughts-on-the-future-of-twitter",
+        "subtitle": "Chaos is the word of the day/week/month",
+        "wordcount": 996
+      },
+      "record_id": "s01-substack-r000035",
+      "source_id": "85765599",
+      "source_type": "substack",
+      "text": "Thoughts on the Future of Twitter and a New Tool\n\nChaos is the word of the day/week/month",
+      "timestamp": "2022-11-22T13:42:54.803Z",
+      "title": "Thoughts on the Future of Twitter and a New Tool",
+      "uri": "https://engineeringgenerosity.substack.com/p/thoughts-on-the-future-of-twitter"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2022-12-12-playing-with-the-future.md",
+        "raw_path": "raw/90161897.json",
+        "reaction_count": 1,
+        "slug": "playing-with-the-future",
+        "subtitle": "Building, generating, and shipping. GTFOL.",
+        "wordcount": 1238
+      },
+      "record_id": "s01-substack-r000036",
+      "source_id": "90161897",
+      "source_type": "substack",
+      "text": "Playing With The Future\n\nBuilding, generating, and shipping. GTFOL.",
+      "timestamp": "2022-12-12T23:54:13.661Z",
+      "title": "Playing With The Future",
+      "uri": "https://engineeringgenerosity.substack.com/p/playing-with-the-future"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2022-12-20-need-your-help-hackathon-voting-is.md",
+        "raw_path": "raw/91884590.json",
+        "reaction_count": 0,
+        "slug": "need-your-help-hackathon-voting-is",
+        "subtitle": "Project built and live - now it's about the vote",
+        "wordcount": 659
+      },
+      "record_id": "s01-substack-r000037",
+      "source_id": "91884590",
+      "source_type": "substack",
+      "text": "Need Your Help: Hackathon Voting is Live!\n\nProject built and live - now it's about the vote",
+      "timestamp": "2022-12-20T23:42:09.579Z",
+      "title": "Need Your Help: Hackathon Voting is Live!",
+      "uri": "https://engineeringgenerosity.substack.com/p/need-your-help-hackathon-voting-is"
+    },
+    {
+      "metadata": {
+        "comment_count": 3,
+        "markdown_path": "posts/2023-01-10-content-creators-and-algorithms.md",
+        "raw_path": "raw/95313550.json",
+        "reaction_count": 4,
+        "slug": "content-creators-and-algorithms",
+        "subtitle": " How The Creator Economy Works, The Major Issues, and My Attempt to Fix Things",
+        "wordcount": 2568
+      },
+      "record_id": "s01-substack-r000038",
+      "source_id": "95313550",
+      "source_type": "substack",
+      "text": "Content, Creators, and Algorithms\n\n How The Creator Economy Works, The Major Issues, and My Attempt to Fix Things",
+      "timestamp": "2023-01-10T13:44:54.489Z",
+      "title": "Content, Creators, and Algorithms",
+      "uri": "https://engineeringgenerosity.substack.com/p/content-creators-and-algorithms"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2023-01-28-lets-talk-marketing-demo-day.md",
+        "raw_path": "raw/98904321.json",
+        "reaction_count": 0,
+        "slug": "lets-talk-marketing-demo-day",
+        "subtitle": "",
+        "wordcount": 857
+      },
+      "record_id": "s01-substack-r000039",
+      "source_id": "98904321",
+      "source_type": "substack",
+      "text": "Let's Talk Marketing (+ Demo Day!)\n\nLet’s venture into the territory that technical founders rarely dare to tread: Marketing.",
+      "timestamp": "2023-01-28T13:48:37.917Z",
+      "title": "Let's Talk Marketing (+ Demo Day!)",
+      "uri": "https://engineeringgenerosity.substack.com/p/lets-talk-marketing-demo-day"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2023-02-15-2-sided-marketplaces-platform-risk.md",
+        "raw_path": "raw/102693693.json",
+        "reaction_count": 0,
+        "slug": "2-sided-marketplaces-platform-risk",
+        "subtitle": "Plus my thoughts on pricing in a 2-sided marketplace",
+        "wordcount": 1150
+      },
+      "record_id": "s01-substack-r000040",
+      "source_id": "102693693",
+      "source_type": "substack",
+      "text": "2-Sided Marketplaces, Platform Risk, and Runaway Apps\n\nPlus my thoughts on pricing in a 2-sided marketplace",
+      "timestamp": "2023-02-15T15:02:32.723Z",
+      "title": "2-Sided Marketplaces, Platform Risk, and Runaway Apps",
+      "uri": "https://engineeringgenerosity.substack.com/p/2-sided-marketplaces-platform-risk"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2023-03-15-growth-hacks-and-setbacks.md",
+        "raw_path": "raw/106599526.json",
+        "reaction_count": 1,
+        "slug": "growth-hacks-and-setbacks",
+        "subtitle": "It's been an eventful couple of weeks",
+        "wordcount": 1721
+      },
+      "record_id": "s01-substack-r000041",
+      "source_id": "106599526",
+      "source_type": "substack",
+      "text": "Growth Hacks and Setbacks\n\nIt's been an eventful couple of weeks",
+      "timestamp": "2023-03-15T12:58:01.834Z",
+      "title": "Growth Hacks and Setbacks",
+      "uri": "https://engineeringgenerosity.substack.com/p/growth-hacks-and-setbacks"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2023-04-04-the-saas-factory-is-now-the-internet.md",
+        "raw_path": "raw/112304844.json",
+        "reaction_count": 3,
+        "slug": "the-saas-factory-is-now-the-internet",
+        "subtitle": "Rebrands, Shutdowns, and Progress",
+        "wordcount": 1161
+      },
+      "record_id": "s01-substack-r000042",
+      "source_id": "112304844",
+      "source_type": "substack",
+      "text": "The SaaS Factory Is Now The Internet Factory\n\nRebrands, Shutdowns, and Progress",
+      "timestamp": "2023-04-04T12:42:55.319Z",
+      "title": "The SaaS Factory Is Now The Internet Factory",
+      "uri": "https://engineeringgenerosity.substack.com/p/the-saas-factory-is-now-the-internet"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2023-04-11-building-a-search-engine-part-1.md",
+        "raw_path": "raw/113065220.json",
+        "reaction_count": 0,
+        "slug": "building-a-search-engine-part-1",
+        "subtitle": "Let's look at the business model",
+        "wordcount": 647
+      },
+      "record_id": "s01-substack-r000043",
+      "source_id": "113065220",
+      "source_type": "substack",
+      "text": "Building a Search Engine: Part 1\n\nLet's look at the business model",
+      "timestamp": "2023-04-11T12:44:17.038Z",
+      "title": "Building a Search Engine: Part 1",
+      "uri": "https://engineeringgenerosity.substack.com/p/building-a-search-engine-part-1"
+    },
+    {
+      "metadata": {
+        "comment_count": 1,
+        "markdown_path": "posts/2023-04-18-building-a-search-engine-part-2-beating.md",
+        "raw_path": "raw/115505241.json",
+        "reaction_count": 1,
+        "slug": "building-a-search-engine-part-2-beating",
+        "subtitle": "You don't have to be Goliath. David can win this.",
+        "wordcount": 893
+      },
+      "record_id": "s01-substack-r000044",
+      "source_id": "115505241",
+      "source_type": "substack",
+      "text": "Building a Search Engine Part 2: Beating The Incumbents\n\nYou don't have to be Goliath. David can win this.",
+      "timestamp": "2023-04-18T12:42:56.091Z",
+      "title": "Building a Search Engine Part 2: Beating The Incumbents",
+      "uri": "https://engineeringgenerosity.substack.com/p/building-a-search-engine-part-2-beating"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2023-04-25-building-a-search-engine-part-3-forget.md",
+        "raw_path": "raw/116808473.json",
+        "reaction_count": 0,
+        "slug": "building-a-search-engine-part-3-forget",
+        "subtitle": "The New Web is Shaping Up",
+        "wordcount": 1296
+      },
+      "record_id": "s01-substack-r000045",
+      "source_id": "116808473",
+      "source_type": "substack",
+      "text": "Building a Search Engine Part 3: Forget SEO, Focus on Relationships\n\nThe New Web is Shaping Up",
+      "timestamp": "2023-04-25T12:43:50.025Z",
+      "title": "Building a Search Engine Part 3: Forget SEO, Focus on Relationships",
+      "uri": "https://engineeringgenerosity.substack.com/p/building-a-search-engine-part-3-forget"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2023-05-02-next-stop-social-media.md",
+        "raw_path": "raw/118651002.json",
+        "reaction_count": 0,
+        "slug": "next-stop-social-media",
+        "subtitle": "Let's shift gears a little bit and talk about the friend we all hang out with but don't mention in conversations.",
+        "wordcount": 668
+      },
+      "record_id": "s01-substack-r000046",
+      "source_id": "118651002",
+      "source_type": "substack",
+      "text": "Next Stop: Social Media\n\nLet's shift gears a little bit and talk about the friend we all hang out with but don't mention in conversations.",
+      "timestamp": "2023-05-02T12:42:13.861Z",
+      "title": "Next Stop: Social Media",
+      "uri": "https://engineeringgenerosity.substack.com/p/next-stop-social-media"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2023-05-09-social-media-part-1-attention-capture.md",
+        "raw_path": "raw/120269018.json",
+        "reaction_count": 0,
+        "slug": "social-media-part-1-attention-capture",
+        "subtitle": "It's all about the trainwrecks",
+        "wordcount": 885
+      },
+      "record_id": "s01-substack-r000047",
+      "source_id": "120269018",
+      "source_type": "substack",
+      "text": "Social Media Part 1: Attention Capture\n\nIt's all about the trainwrecks",
+      "timestamp": "2023-05-09T12:42:05.542Z",
+      "title": "Social Media Part 1: Attention Capture",
+      "uri": "https://engineeringgenerosity.substack.com/p/social-media-part-1-attention-capture"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2023-05-16-social-media-part-2-the-algorithms.md",
+        "raw_path": "raw/120735021.json",
+        "reaction_count": 0,
+        "slug": "social-media-part-2-the-algorithms",
+        "subtitle": "The Battle For Your Attention Isn't In Your Hands",
+        "wordcount": 1035
+      },
+      "record_id": "s01-substack-r000048",
+      "source_id": "120735021",
+      "source_type": "substack",
+      "text": "Social Media Part 2: The Algorithm(s)\n\nThe Battle For Your Attention Isn't In Your Hands",
+      "timestamp": "2023-05-16T12:42:51.237Z",
+      "title": "Social Media Part 2: The Algorithm(s)",
+      "uri": "https://engineeringgenerosity.substack.com/p/social-media-part-2-the-algorithms"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2023-05-23-social-media-part-3-owning-your-experience.md",
+        "raw_path": "raw/123135132.json",
+        "reaction_count": 1,
+        "slug": "social-media-part-3-owning-your-experience",
+        "subtitle": "You've got to know what you're looking for",
+        "wordcount": 1132
+      },
+      "record_id": "s01-substack-r000049",
+      "source_id": "123135132",
+      "source_type": "substack",
+      "text": "Social Media Part 3: Owning Your Experience\n\nYou've got to know what you're looking for",
+      "timestamp": "2023-05-23T12:43:15.219Z",
+      "title": "Social Media Part 3: Owning Your Experience",
+      "uri": "https://engineeringgenerosity.substack.com/p/social-media-part-3-owning-your-experience"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2023-05-30-new-challenge-1-year-12-products.md",
+        "raw_path": "raw/124782196.json",
+        "reaction_count": 1,
+        "slug": "new-challenge-1-year-12-products",
+        "subtitle": "Pushing myself to the limits for the next year to see what happens.",
+        "wordcount": 184
+      },
+      "record_id": "s01-substack-r000050",
+      "source_id": "124782196",
+      "source_type": "substack",
+      "text": "New Challenge: 1 Year. 12 Products. $150K.\n\nPushing myself to the limits for the next year to see what happens.",
+      "timestamp": "2023-05-30T12:42:08.506Z",
+      "title": "New Challenge: 1 Year. 12 Products. $150K.",
+      "uri": "https://engineeringgenerosity.substack.com/p/new-challenge-1-year-12-products"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2023-06-06-week-1-product-1-talkhomey-takes.md",
+        "raw_path": "raw/126382778.json",
+        "reaction_count": 0,
+        "slug": "week-1-product-1-talkhomey-takes",
+        "subtitle": "The first week has resulted in some decent progress",
+        "wordcount": 997
+      },
+      "record_id": "s01-substack-r000051",
+      "source_id": "126382778",
+      "source_type": "substack",
+      "text": "Week 1, Product 1: TalkHomey Takes Shape\n\nThe first week has resulted in some decent progress",
+      "timestamp": "2023-06-06T12:42:56.204Z",
+      "title": "Week 1, Product 1: TalkHomey Takes Shape",
+      "uri": "https://engineeringgenerosity.substack.com/p/week-1-product-1-talkhomey-takes"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2023-06-13-talkhomey-week-2-the-search-for-users.md",
+        "raw_path": "raw/128005007.json",
+        "reaction_count": 0,
+        "slug": "talkhomey-week-2-the-search-for-users",
+        "subtitle": "Plus exploring some ways to extract info from websites",
+        "wordcount": 555
+      },
+      "record_id": "s01-substack-r000052",
+      "source_id": "128005007",
+      "source_type": "substack",
+      "text": "TalkHomey Week 2: The Search for Users Continues\n\nPlus exploring some ways to extract info from websites",
+      "timestamp": "2023-06-13T14:42:11.569Z",
+      "title": "TalkHomey Week 2: The Search for Users Continues",
+      "uri": "https://engineeringgenerosity.substack.com/p/talkhomey-week-2-the-search-for-users"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2023-06-27-lets-talk-programmatic-seo.md",
+        "raw_path": "raw/131290555.json",
+        "reaction_count": 0,
+        "slug": "lets-talk-programmatic-seo",
+        "subtitle": "Missed you last week!",
+        "wordcount": 1521
+      },
+      "record_id": "s01-substack-r000053",
+      "source_id": "131290555",
+      "source_type": "substack",
+      "text": "Let's Talk Programmatic SEO\n\nMissed you last week!",
+      "timestamp": "2023-06-27T12:42:01.278Z",
+      "title": "Let's Talk Programmatic SEO",
+      "uri": "https://engineeringgenerosity.substack.com/p/lets-talk-programmatic-seo"
+    },
+    {
+      "metadata": {
+        "comment_count": 1,
+        "markdown_path": "posts/2023-07-18-expectations-consistency-and-habits.md",
+        "raw_path": "raw/135146576.json",
+        "reaction_count": 1,
+        "slug": "expectations-consistency-and-habits",
+        "subtitle": "",
+        "wordcount": 725
+      },
+      "record_id": "s01-substack-r000054",
+      "source_id": "135146576",
+      "source_type": "substack",
+      "text": "Expectations, Consistency, and Habits\n\nWhat does it mean to be consistent?",
+      "timestamp": "2023-07-18T12:42:03.815Z",
+      "title": "Expectations, Consistency, and Habits",
+      "uri": "https://engineeringgenerosity.substack.com/p/expectations-consistency-and-habits"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2023-07-25-the-new-coach-in-town-is-an-ai.md",
+        "raw_path": "raw/135434438.json",
+        "reaction_count": 0,
+        "slug": "the-new-coach-in-town-is-an-ai",
+        "subtitle": "How much can you learn from an AI coach? Let's find out!",
+        "wordcount": 506
+      },
+      "record_id": "s01-substack-r000055",
+      "source_id": "135434438",
+      "source_type": "substack",
+      "text": "The New Coach In Town Is an AI\n\nHow much can you learn from an AI coach? Let's find out!",
+      "timestamp": "2023-07-25T12:42:08.089Z",
+      "title": "The New Coach In Town Is an AI",
+      "uri": "https://engineeringgenerosity.substack.com/p/the-new-coach-in-town-is-an-ai"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2023-08-01-meet-alix-your-new-build-in-public.md",
+        "raw_path": "raw/135624931.json",
+        "reaction_count": 0,
+        "slug": "meet-alix-your-new-build-in-public",
+        "subtitle": "Hiring Alix away from her previous job",
+        "wordcount": 496
+      },
+      "record_id": "s01-substack-r000056",
+      "source_id": "135624931",
+      "source_type": "substack",
+      "text": "Meet Alix - Your New Build In Public Coach\n\nHiring Alix away from her previous job",
+      "timestamp": "2023-08-01T12:42:14.792Z",
+      "title": "Meet Alix - Your New Build In Public Coach",
+      "uri": "https://engineeringgenerosity.substack.com/p/meet-alix-your-new-build-in-public"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2023-08-08-building-a-more-effective-coach.md",
+        "raw_path": "raw/135814807.json",
+        "reaction_count": 1,
+        "slug": "building-a-more-effective-coach",
+        "subtitle": "No more answering a bunch of boring questions before you chat with the coach",
+        "wordcount": 692
+      },
+      "record_id": "s01-substack-r000057",
+      "source_id": "135814807",
+      "source_type": "substack",
+      "text": "Building a More Effective Coach\n\nNo more answering a bunch of boring questions before you chat with the coach",
+      "timestamp": "2023-08-08T12:42:06.170Z",
+      "title": "Building a More Effective Coach",
+      "uri": "https://engineeringgenerosity.substack.com/p/building-a-more-effective-coach"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2023-08-15-lets-talk-distribution.md",
+        "raw_path": "raw/136046450.json",
+        "reaction_count": 0,
+        "slug": "lets-talk-distribution",
+        "subtitle": "Now that we've cleaned some things up: we want to get it into the hands of users",
+        "wordcount": 1103
+      },
+      "record_id": "s01-substack-r000058",
+      "source_id": "136046450",
+      "source_type": "substack",
+      "text": "Let's Talk Distribution\n\nNow that we've cleaned some things up: we want to get it into the hands of users",
+      "timestamp": "2023-08-15T12:42:08.439Z",
+      "title": "Let's Talk Distribution",
+      "uri": "https://engineeringgenerosity.substack.com/p/lets-talk-distribution"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2023-08-22-enter-the-grind.md",
+        "raw_path": "raw/136301002.json",
+        "reaction_count": 0,
+        "slug": "enter-the-grind",
+        "subtitle": "Let's talk mental health and consulting approaches",
+        "wordcount": 1325
+      },
+      "record_id": "s01-substack-r000059",
+      "source_id": "136301002",
+      "source_type": "substack",
+      "text": "Enter The Grind\n\nLet's talk mental health and consulting approaches",
+      "timestamp": "2023-08-22T12:51:31.497Z",
+      "title": "Enter The Grind",
+      "uri": "https://engineeringgenerosity.substack.com/p/enter-the-grind"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2023-08-29-keeping-the-plates-spinning-burnout.md",
+        "raw_path": "raw/136516804.json",
+        "reaction_count": 0,
+        "slug": "keeping-the-plates-spinning-burnout",
+        "subtitle": "It's easy to try to keep up with everything. What happens when you can't?",
+        "wordcount": 1125
+      },
+      "record_id": "s01-substack-r000060",
+      "source_id": "136516804",
+      "source_type": "substack",
+      "text": "Keeping the Plates Spinning -> Burnout and Imposter Syndrome\n\nIt's easy to try to keep up with everything. What happens when you can't?",
+      "timestamp": "2023-08-29T12:50:39.382Z",
+      "title": "Keeping the Plates Spinning -> Burnout and Imposter Syndrome",
+      "uri": "https://engineeringgenerosity.substack.com/p/keeping-the-plates-spinning-burnout"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2023-09-05-hacks-hacking-and-hackers-oh-my.md",
+        "raw_path": "raw/136749717.json",
+        "reaction_count": 0,
+        "slug": "hacks-hacking-and-hackers-oh-my",
+        "subtitle": "Let's dig into the world of hacking",
+        "wordcount": 1476
+      },
+      "record_id": "s01-substack-r000061",
+      "source_id": "136749717",
+      "source_type": "substack",
+      "text": "Hacks, Hacking, and Hackers, Oh My\n\nLet's dig into the world of hacking",
+      "timestamp": "2023-09-05T13:13:13.570Z",
+      "title": "Hacks, Hacking, and Hackers, Oh My",
+      "uri": "https://engineeringgenerosity.substack.com/p/hacks-hacking-and-hackers-oh-my"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2023-09-12-revising-your-vision.md",
+        "raw_path": "raw/136971060.json",
+        "reaction_count": 0,
+        "slug": "revising-your-vision",
+        "subtitle": "When should you adjust your master plan?",
+        "wordcount": 1019
+      },
+      "record_id": "s01-substack-r000062",
+      "source_id": "136971060",
+      "source_type": "substack",
+      "text": "Revising Your Vision\n\nWhen should you adjust your master plan?",
+      "timestamp": "2023-09-12T12:53:18.452Z",
+      "title": "Revising Your Vision",
+      "uri": "https://engineeringgenerosity.substack.com/p/revising-your-vision"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2023-09-19-internet-factory-idea-supply-chain.md",
+        "raw_path": "raw/137180774.json",
+        "reaction_count": 0,
+        "slug": "internet-factory-idea-supply-chain",
+        "subtitle": "Time for a fresh look/feel",
+        "wordcount": 1020
+      },
+      "record_id": "s01-substack-r000063",
+      "source_id": "137180774",
+      "source_type": "substack",
+      "text": "Internet Factory -> Idea Supply Chain\n\nTime for a fresh look/feel",
+      "timestamp": "2023-09-19T13:04:44.832Z",
+      "title": "Internet Factory -> Idea Supply Chain",
+      "uri": "https://engineeringgenerosity.substack.com/p/internet-factory-idea-supply-chain"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2023-09-26-making-money-with-the-idea-supply.md",
+        "raw_path": "raw/137413462.json",
+        "reaction_count": 0,
+        "slug": "making-money-with-the-idea-supply",
+        "subtitle": "Where does value accrue?",
+        "wordcount": 1331
+      },
+      "record_id": "s01-substack-r000064",
+      "source_id": "137413462",
+      "source_type": "substack",
+      "text": "Making Money with the Idea Supply Chain\n\nWhere does value accrue?",
+      "timestamp": "2023-09-26T22:52:39.744Z",
+      "title": "Making Money with the Idea Supply Chain",
+      "uri": "https://engineeringgenerosity.substack.com/p/making-money-with-the-idea-supply"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2023-10-03-the-paradox-of-discoverability.md",
+        "raw_path": "raw/137619696.json",
+        "reaction_count": 1,
+        "slug": "the-paradox-of-discoverability",
+        "subtitle": "How do you find the stuff that isn't optimized to be found?",
+        "wordcount": 1316
+      },
+      "record_id": "s01-substack-r000065",
+      "source_id": "137619696",
+      "source_type": "substack",
+      "text": "The Paradox of Discoverability\n\nHow do you find the stuff that isn't optimized to be found?",
+      "timestamp": "2023-10-03T13:18:14.790Z",
+      "title": "The Paradox of Discoverability",
+      "uri": "https://engineeringgenerosity.substack.com/p/the-paradox-of-discoverability"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2023-10-10-starting-to-migrate.md",
+        "raw_path": "raw/137836105.json",
+        "reaction_count": 1,
+        "slug": "starting-to-migrate",
+        "subtitle": "Moving off of substack",
+        "wordcount": 572
+      },
+      "record_id": "s01-substack-r000066",
+      "source_id": "137836105",
+      "source_type": "substack",
+      "text": "Starting to migrate\n\nMoving off of substack",
+      "timestamp": "2023-10-10T23:31:08.782Z",
+      "title": "Starting to migrate",
+      "uri": "https://engineeringgenerosity.substack.com/p/starting-to-migrate"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2024-05-06-remember-me.md",
+        "raw_path": "raw/144375803.json",
+        "reaction_count": 2,
+        "slug": "remember-me",
+        "subtitle": "Back on Substack with an Experiment",
+        "wordcount": 341
+      },
+      "record_id": "s01-substack-r000067",
+      "source_id": "144375803",
+      "source_type": "substack",
+      "text": "Remember me?\n\nBack on Substack with an Experiment",
+      "timestamp": "2024-05-06T23:56:11.254Z",
+      "title": "Remember me?",
+      "uri": "https://engineeringgenerosity.substack.com/p/remember-me"
+    },
+    {
+      "metadata": {
+        "comment_count": 2,
+        "markdown_path": "posts/2024-05-23-introduction-to-abundant-systems.md",
+        "raw_path": "raw/144909184.json",
+        "reaction_count": 5,
+        "slug": "introduction-to-abundant-systems",
+        "subtitle": "Let's start by looking at systems through the lenses of scarcity and abundance",
+        "wordcount": 929
+      },
+      "record_id": "s01-substack-r000068",
+      "source_id": "144909184",
+      "source_type": "substack",
+      "text": "Introduction to Abundant Systems\n\nLet's start by looking at systems through the lenses of scarcity and abundance",
+      "timestamp": "2024-05-23T14:29:18.456Z",
+      "title": "Introduction to Abundant Systems",
+      "uri": "https://engineeringgenerosity.substack.com/p/introduction-to-abundant-systems"
+    },
+    {
+      "metadata": {
+        "comment_count": 2,
+        "markdown_path": "posts/2024-05-27-rebranding-to-engineering-generosity.md",
+        "raw_path": "raw/145028125.json",
+        "reaction_count": 2,
+        "slug": "rebranding-to-engineering-generosity",
+        "subtitle": "The focus is now on Abundant Systems",
+        "wordcount": 1217
+      },
+      "record_id": "s01-substack-r000069",
+      "source_id": "145028125",
+      "source_type": "substack",
+      "text": "Rebranding to Engineering Generosity\n\nThe focus is now on Abundant Systems",
+      "timestamp": "2024-05-27T15:43:55.560Z",
+      "title": "Rebranding to Engineering Generosity",
+      "uri": "https://engineeringgenerosity.substack.com/p/rebranding-to-engineering-generosity"
+    },
+    {
+      "metadata": {
+        "comment_count": 2,
+        "markdown_path": "posts/2024-06-03-what-abundant-systems-feel-like.md",
+        "raw_path": "raw/145177435.json",
+        "reaction_count": 5,
+        "slug": "what-abundant-systems-feel-like",
+        "subtitle": "Sometimes it can be hard to explain, but you know it when you feel it.",
+        "wordcount": 3010
+      },
+      "record_id": "s01-substack-r000070",
+      "source_id": "145177435",
+      "source_type": "substack",
+      "text": "What Abundant Systems Feel Like\n\nSometimes it can be hard to explain, but you know it when you feel it.",
+      "timestamp": "2024-06-03T23:15:29.923Z",
+      "title": "What Abundant Systems Feel Like",
+      "uri": "https://engineeringgenerosity.substack.com/p/what-abundant-systems-feel-like"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2024-06-16-experiment-engineering-an-abundant.md",
+        "raw_path": "raw/145656429.json",
+        "reaction_count": 2,
+        "slug": "experiment-engineering-an-abundant",
+        "subtitle": "Now I'm working to show abundant systems instead of just talking about them",
+        "wordcount": 1812
+      },
+      "record_id": "s01-substack-r000071",
+      "source_id": "145656429",
+      "source_type": "substack",
+      "text": "Experiment: Engineering an Abundant Community\n\nNow I'm working to show abundant systems instead of just talking about them",
+      "timestamp": "2024-06-16T17:10:28.940Z",
+      "title": "Experiment: Engineering an Abundant Community",
+      "uri": "https://engineeringgenerosity.substack.com/p/experiment-engineering-an-abundant"
+    },
+    {
+      "metadata": {
+        "comment_count": 1,
+        "markdown_path": "posts/2024-06-23-abundant-systems-for-entrepreneurs.md",
+        "raw_path": "raw/145918110.json",
+        "reaction_count": 1,
+        "slug": "abundant-systems-for-entrepreneurs",
+        "subtitle": "Examples of how I'm using abundant systems in my business ",
+        "wordcount": 2772
+      },
+      "record_id": "s01-substack-r000072",
+      "source_id": "145918110",
+      "source_type": "substack",
+      "text": "Abundant Systems For Entrepreneurs\n\nExamples of how I'm using abundant systems in my business ",
+      "timestamp": "2024-06-23T21:07:58.108Z",
+      "title": "Abundant Systems For Entrepreneurs",
+      "uri": "https://engineeringgenerosity.substack.com/p/abundant-systems-for-entrepreneurs"
+    },
+    {
+      "metadata": {
+        "comment_count": 2,
+        "markdown_path": "posts/2024-07-01-the-optimists-manifesto.md",
+        "raw_path": "raw/146148912.json",
+        "reaction_count": 14,
+        "slug": "the-optimists-manifesto",
+        "subtitle": "This sums up my story and why I believe it's time for us to start an optimist's revolution.",
+        "wordcount": 2452
+      },
+      "record_id": "s01-substack-r000073",
+      "source_id": "146148912",
+      "source_type": "substack",
+      "text": "The Optimist's Manifesto\n\nThis sums up my story and why I believe it's time for us to start an optimist's revolution.",
+      "timestamp": "2024-07-01T12:55:58.485Z",
+      "title": "The Optimist's Manifesto",
+      "uri": "https://engineeringgenerosity.substack.com/p/the-optimists-manifesto"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2024-07-12-the-biggest-obstacle-to-scaling-creativity.md",
+        "raw_path": "raw/146380804.json",
+        "reaction_count": 1,
+        "slug": "the-biggest-obstacle-to-scaling-creativity",
+        "subtitle": "It's not external; it's internal",
+        "wordcount": 1104
+      },
+      "record_id": "s01-substack-r000074",
+      "source_id": "146380804",
+      "source_type": "substack",
+      "text": "The Biggest Obstacle To Scaling Creativity\n\nIt's not external; it's internal",
+      "timestamp": "2024-07-12T14:02:21.061Z",
+      "title": "The Biggest Obstacle To Scaling Creativity",
+      "uri": "https://engineeringgenerosity.substack.com/p/the-biggest-obstacle-to-scaling-creativity"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2024-07-17-my-digital-twin-the-secret-weapon.md",
+        "raw_path": "raw/146711951.json",
+        "reaction_count": 1,
+        "slug": "my-digital-twin-the-secret-weapon",
+        "subtitle": "I'm tired of fighting a losing battle against the algorithm. So I'm changing my approach.",
+        "wordcount": 639
+      },
+      "record_id": "s01-substack-r000075",
+      "source_id": "146711951",
+      "source_type": "substack",
+      "text": "My Digital Twin: The Secret Weapon Against Creator Burnout\n\nI'm tired of fighting a losing battle against the algorithm. So I'm changing my approach.",
+      "timestamp": "2024-07-17T20:32:53.890Z",
+      "title": "My Digital Twin: The Secret Weapon Against Creator Burnout",
+      "uri": "https://engineeringgenerosity.substack.com/p/my-digital-twin-the-secret-weapon"
+    },
+    {
+      "metadata": {
+        "comment_count": 4,
+        "markdown_path": "posts/2024-08-08-simple-is-hard.md",
+        "raw_path": "raw/147487035.json",
+        "reaction_count": 3,
+        "slug": "simple-is-hard",
+        "subtitle": "I'm learning to simplify.",
+        "wordcount": 1192
+      },
+      "record_id": "s01-substack-r000076",
+      "source_id": "147487035",
+      "source_type": "substack",
+      "text": "Simple is Hard\n\nI'm learning to simplify.",
+      "timestamp": "2024-08-08T16:05:11.049Z",
+      "title": "Simple is Hard",
+      "uri": "https://engineeringgenerosity.substack.com/p/simple-is-hard"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2024-08-15-seeing-abundance-everywhere.md",
+        "raw_path": "raw/147743996.json",
+        "reaction_count": 0,
+        "slug": "seeing-abundance-everywhere",
+        "subtitle": "4 Case Studies of Abundant Systems Observed in the Wild",
+        "wordcount": 1442
+      },
+      "record_id": "s01-substack-r000077",
+      "source_id": "147743996",
+      "source_type": "substack",
+      "text": "Seeing Abundance Everywhere\n\n4 Case Studies of Abundant Systems Observed in the Wild",
+      "timestamp": "2024-08-15T17:00:10.307Z",
+      "title": "Seeing Abundance Everywhere",
+      "uri": "https://engineeringgenerosity.substack.com/p/seeing-abundance-everywhere"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2024-11-06-political-generosity.md",
+        "raw_path": "raw/151281187.json",
+        "reaction_count": 4,
+        "slug": "political-generosity",
+        "subtitle": "Last night showed me something about my model of the world",
+        "wordcount": 1742
+      },
+      "record_id": "s01-substack-r000078",
+      "source_id": "151281187",
+      "source_type": "substack",
+      "text": "Political Generosity\n\nLast night showed me something about my model of the world",
+      "timestamp": "2024-11-06T17:28:25.088Z",
+      "title": "Political Generosity",
+      "uri": "https://engineeringgenerosity.substack.com/p/political-generosity"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2024-12-05-whats-your-biggest-risk.md",
+        "raw_path": "raw/152618845.json",
+        "reaction_count": 1,
+        "slug": "whats-your-biggest-risk",
+        "subtitle": "An update on the book",
+        "wordcount": 471
+      },
+      "record_id": "s01-substack-r000079",
+      "source_id": "152618845",
+      "source_type": "substack",
+      "text": "What's your biggest risk?\n\nAn update on the book",
+      "timestamp": "2024-12-05T15:56:03.136Z",
+      "title": "What's your biggest risk?",
+      "uri": "https://engineeringgenerosity.substack.com/p/whats-your-biggest-risk"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2025-01-17-the-key-to-the-future-is-human-insurance.md",
+        "raw_path": "raw/155044056.json",
+        "reaction_count": 0,
+        "slug": "the-key-to-the-future-is-human-insurance",
+        "subtitle": "AKA Decentralized Planned Economies",
+        "wordcount": 1088
+      },
+      "record_id": "s01-substack-r000080",
+      "source_id": "155044056",
+      "source_type": "substack",
+      "text": "The Key to the future is Human Insurance\n\nAKA Decentralized Planned Economies",
+      "timestamp": "2025-01-17T23:25:50.546Z",
+      "title": "The Key to the future is Human Insurance",
+      "uri": "https://engineeringgenerosity.substack.com/p/the-key-to-the-future-is-human-insurance"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2025-02-06-an-open-letter-to-my-past-warning.md",
+        "raw_path": "raw/156605850.json",
+        "reaction_count": 1,
+        "slug": "an-open-letter-to-my-past-warning",
+        "subtitle": "It's about to get rocky, but that's actually good news",
+        "wordcount": 1270
+      },
+      "record_id": "s01-substack-r000081",
+      "source_id": "156605850",
+      "source_type": "substack",
+      "text": "An Open Letter to my Past, Warning of the Storms to Come \n\nIt's about to get rocky, but that's actually good news",
+      "timestamp": "2025-02-06T15:38:46.794Z",
+      "title": "An Open Letter to my Past, Warning of the Storms to Come ",
+      "uri": "https://engineeringgenerosity.substack.com/p/an-open-letter-to-my-past-warning"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2025-03-04-tiny-experiments-in-generosity.md",
+        "raw_path": "raw/158367334.json",
+        "reaction_count": 1,
+        "slug": "tiny-experiments-in-generosity",
+        "subtitle": "Collaboration is the future",
+        "wordcount": 473
+      },
+      "record_id": "s01-substack-r000082",
+      "source_id": "158367334",
+      "source_type": "substack",
+      "text": "Tiny Experiments in Generosity\n\nCollaboration is the future",
+      "timestamp": "2025-03-04T15:10:16.015Z",
+      "title": "Tiny Experiments in Generosity",
+      "uri": "https://engineeringgenerosity.substack.com/p/tiny-experiments-in-generosity"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2025-04-02-engineering-friendship.md",
+        "raw_path": "raw/160185798.json",
+        "reaction_count": 2,
+        "slug": "engineering-friendship",
+        "subtitle": "Friendship is the answer to more questions than you realize",
+        "wordcount": 2385
+      },
+      "record_id": "s01-substack-r000083",
+      "source_id": "160185798",
+      "source_type": "substack",
+      "text": "Engineering Friendship\n\nFriendship is the answer to more questions than you realize",
+      "timestamp": "2025-04-02T00:04:15.999Z",
+      "title": "Engineering Friendship",
+      "uri": "https://engineeringgenerosity.substack.com/p/engineering-friendship"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2025-06-04-i-figured-out-how-to-engineer-generosity.md",
+        "raw_path": "raw/165222316.json",
+        "reaction_count": 2,
+        "slug": "i-figured-out-how-to-engineer-generosity",
+        "subtitle": "5 years of work is done. Now it's time for a small break.",
+        "wordcount": 29
+      },
+      "record_id": "s01-substack-r000084",
+      "source_id": "165222316",
+      "source_type": "substack",
+      "text": "I figured out how to engineer generosity\n\n5 years of work is done. Now it's time for a small break.",
+      "timestamp": "2025-06-04T20:48:02.514Z",
+      "title": "I figured out how to engineer generosity",
+      "uri": "https://engineeringgenerosity.substack.com/p/i-figured-out-how-to-engineer-generosity"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2025-06-10-welcome-to-the-singularity.md",
+        "raw_path": "raw/165591932.json",
+        "reaction_count": 2,
+        "slug": "welcome-to-the-singularity",
+        "subtitle": "Fighting Substack for ownership of my email list",
+        "wordcount": 124
+      },
+      "record_id": "s01-substack-r000085",
+      "source_id": "165591932",
+      "source_type": "substack",
+      "text": "Welcome to the Singularity\n\nFighting Substack for ownership of my email list",
+      "timestamp": "2025-06-10T03:40:06.729Z",
+      "title": "Welcome to the Singularity",
+      "uri": "https://engineeringgenerosity.substack.com/p/welcome-to-the-singularity"
+    },
+    {
+      "metadata": {
+        "comment_count": 1,
+        "markdown_path": "posts/2025-06-27-what-if-we-built-an-internet-where.md",
+        "raw_path": "raw/166998110.json",
+        "reaction_count": 3,
+        "slug": "what-if-we-built-an-internet-where",
+        "subtitle": "Let's make wellbeing economies the norm instead of leveraged ones.",
+        "wordcount": 1
+      },
+      "record_id": "s01-substack-r000086",
+      "source_id": "166998110",
+      "source_type": "substack",
+      "text": "What if we built an internet where we didn't need to cheat?\n\nLet's make wellbeing economies the norm instead of leveraged ones.",
+      "timestamp": "2025-06-27T19:28:08.202Z",
+      "title": "What if we built an internet where we didn't need to cheat?",
+      "uri": "https://engineeringgenerosity.substack.com/p/what-if-we-built-an-internet-where"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2025-07-01-july-4-is-when-we-celebrate-our-temporal.md",
+        "raw_path": "raw/166984102.json",
+        "reaction_count": 1,
+        "slug": "july-4-is-when-we-celebrate-our-temporal",
+        "subtitle": "Internet 2.0 is the Human Internet",
+        "wordcount": 685
+      },
+      "record_id": "s01-substack-r000087",
+      "source_id": "166984102",
+      "source_type": "substack",
+      "text": "July 4 is when we celebrate our Temporal Independence\n\nInternet 2.0 is the Human Internet",
+      "timestamp": "2025-07-01T19:57:31.968Z",
+      "title": "July 4 is when we celebrate our Temporal Independence",
+      "uri": "https://engineeringgenerosity.substack.com/p/july-4-is-when-we-celebrate-our-temporal"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2025-07-26-what-i-learned-from-spending-4-days.md",
+        "raw_path": "raw/168286754.json",
+        "reaction_count": 2,
+        "slug": "what-i-learned-from-spending-4-days",
+        "subtitle": "A Vibecamp Retrospective",
+        "wordcount": 1667
+      },
+      "record_id": "s01-substack-r000088",
+      "source_id": "168286754",
+      "source_type": "substack",
+      "text": "What I Learned From Spending 4 Days In the Woods With A Bunch of Internet Weirdos\n\nA Vibecamp Retrospective",
+      "timestamp": "2025-07-26T13:56:23.219Z",
+      "title": "What I Learned From Spending 4 Days In the Woods With A Bunch of Internet Weirdos",
+      "uri": "https://engineeringgenerosity.substack.com/p/what-i-learned-from-spending-4-days"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2025-08-06-hitting-reset-on-life.md",
+        "raw_path": "raw/170218189.json",
+        "reaction_count": 4,
+        "slug": "hitting-reset-on-life",
+        "subtitle": "I realized I was trying to live a lot of lives that weren't mine. Now it's time to focus on the one that really matters.",
+        "wordcount": 3705
+      },
+      "record_id": "s01-substack-r000089",
+      "source_id": "170218189",
+      "source_type": "substack",
+      "text": "Hitting Reset on Life\n\nI realized I was trying to live a lot of lives that weren't mine. Now it's time to focus on the one that really matters.",
+      "timestamp": "2025-08-06T13:10:43.947Z",
+      "title": "Hitting Reset on Life",
+      "uri": "https://engineeringgenerosity.substack.com/p/hitting-reset-on-life"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2025-08-13-a-week-after-clarity-uncertainty.md",
+        "raw_path": "raw/170883601.json",
+        "reaction_count": 1,
+        "slug": "a-week-after-clarity-uncertainty",
+        "subtitle": "But the best kind of uncertainty.",
+        "wordcount": 642
+      },
+      "record_id": "s01-substack-r000090",
+      "source_id": "170883601",
+      "source_type": "substack",
+      "text": "A Week After Clarity? Uncertainty.\n\nBut the best kind of uncertainty.",
+      "timestamp": "2025-08-13T14:53:26.758Z",
+      "title": "A Week After Clarity? Uncertainty.",
+      "uri": "https://engineeringgenerosity.substack.com/p/a-week-after-clarity-uncertainty"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2025-09-10-today-we-have-a-choice-love-or-hate.md",
+        "raw_path": "raw/173305521.json",
+        "reaction_count": 0,
+        "slug": "today-we-have-a-choice-love-or-hate",
+        "subtitle": "It all comes full circle.",
+        "wordcount": 1063
+      },
+      "record_id": "s01-substack-r000091",
+      "source_id": "173305521",
+      "source_type": "substack",
+      "text": "Today, We Have a Choice: Love or Hate\n\nIt all comes full circle.",
+      "timestamp": "2025-09-10T23:19:53.089Z",
+      "title": "Today, We Have a Choice: Love or Hate",
+      "uri": "https://engineeringgenerosity.substack.com/p/today-we-have-a-choice-love-or-hate"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2025-10-01-what-it-feels-like-to-be-poor.md",
+        "raw_path": "raw/175058719.json",
+        "reaction_count": 2,
+        "slug": "what-it-feels-like-to-be-poor",
+        "subtitle": "And why it's time to fix that",
+        "wordcount": 255
+      },
+      "record_id": "s01-substack-r000092",
+      "source_id": "175058719",
+      "source_type": "substack",
+      "text": "What it feels like to be poor\n\nAnd why it's time to fix that",
+      "timestamp": "2025-10-01T21:08:45.135Z",
+      "title": "What it feels like to be poor",
+      "uri": "https://engineeringgenerosity.substack.com/p/what-it-feels-like-to-be-poor"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2025-10-08-what-it-feels-like-to-be-rich.md",
+        "raw_path": "raw/175614458.json",
+        "reaction_count": 1,
+        "slug": "what-it-feels-like-to-be-rich",
+        "subtitle": "It Feels Like Winning",
+        "wordcount": 509
+      },
+      "record_id": "s01-substack-r000093",
+      "source_id": "175614458",
+      "source_type": "substack",
+      "text": "What It Feels Like To Be Rich\n\nIt Feels Like Winning",
+      "timestamp": "2025-10-08T12:24:52.604Z",
+      "title": "What It Feels Like To Be Rich",
+      "uri": "https://engineeringgenerosity.substack.com/p/what-it-feels-like-to-be-rich"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2025-10-10-what-does-it-take-to-build-trust.md",
+        "raw_path": "raw/175791018.json",
+        "reaction_count": 1,
+        "slug": "what-does-it-take-to-build-trust",
+        "subtitle": "Reflections from a week at the county fair",
+        "wordcount": 1264
+      },
+      "record_id": "s01-substack-r000094",
+      "source_id": "175791018",
+      "source_type": "substack",
+      "text": "What does it take to build trust?\n\nReflections from a week at the county fair",
+      "timestamp": "2025-10-10T11:55:20.899Z",
+      "title": "What does it take to build trust?",
+      "uri": "https://engineeringgenerosity.substack.com/p/what-does-it-take-to-build-trust"
+    },
+    {
+      "metadata": {
+        "comment_count": 1,
+        "markdown_path": "posts/2025-10-28-what-happens-when-a-country-starves.md",
+        "raw_path": "raw/177363448.json",
+        "reaction_count": 1,
+        "slug": "what-happens-when-a-country-starves",
+        "subtitle": "Change is coming because people will be going hungry",
+        "wordcount": 608
+      },
+      "record_id": "s01-substack-r000095",
+      "source_id": "177363448",
+      "source_type": "substack",
+      "text": "What Happens When A Country Starves?\n\nChange is coming because people will be going hungry",
+      "timestamp": "2025-10-28T12:38:59.135Z",
+      "title": "What Happens When A Country Starves?",
+      "uri": "https://engineeringgenerosity.substack.com/p/what-happens-when-a-country-starves"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2025-11-14-the-love-manifesto.md",
+        "raw_path": "raw/178923004.json",
+        "reaction_count": 1,
+        "slug": "the-love-manifesto",
+        "subtitle": "Increasing the amount of love in the world through conscious competition.",
+        "wordcount": 986
+      },
+      "record_id": "s01-substack-r000096",
+      "source_id": "178923004",
+      "source_type": "substack",
+      "text": "❤️ THE LOVE MANIFESTO\n\nIncreasing the amount of love in the world through conscious competition.",
+      "timestamp": "2025-11-14T20:09:05.737Z",
+      "title": "❤️ THE LOVE MANIFESTO",
+      "uri": "https://engineeringgenerosity.substack.com/p/the-love-manifesto"
+    },
+    {
+      "metadata": {
+        "comment_count": 0,
+        "markdown_path": "posts/2025-11-17-the-bill-that-didnt-break-the-camels.md",
+        "raw_path": "raw/179138435.json",
+        "reaction_count": 0,
+        "slug": "the-bill-that-didnt-break-the-camels",
+        "subtitle": "A story of Lovemaxing the World",
+        "wordcount": 518
+      },
+      "record_id": "s01-substack-r000097",
+      "source_id": "179138435",
+      "source_type": "substack",
+      "text": "The Bill that Didn't Break The Camel's Back\n\nA story of Lovemaxing the World",
+      "timestamp": "2025-11-17T13:13:48.110Z",
+      "title": "The Bill that Didn't Break The Camel's Back",
+      "uri": "https://engineeringgenerosity.substack.com/p/the-bill-that-didnt-break-the-camels"
+    }
+  ],
+  "schema_version": "datamine.block.v1",
+  "source_adapter": "substack-block-adapter@0.1.0",
+  "source_config": {
+    "block_id": "engineeringgenerosity-substack",
+    "fetch_bodies": false,
+    "out": "/Users/leoguinan/Projects/substack-mirrors/engineeringgenerosity-substack-block/mirror",
+    "publication": "https://engineeringgenerosity.substack.com",
+    "source_id_prefix": "s01-substack"
+  },
+  "source_config_fingerprint": "03be458cb632303040a556660157b80f13e4b226d9fd26e0366deda388099d1f",
+  "title": "Substack mirror: https://engineeringgenerosity.substack.com"
+}

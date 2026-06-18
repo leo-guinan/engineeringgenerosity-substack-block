@@ -1,0 +1,207 @@
+{
+  "audience": "everyone",
+  "audio_items": [
+    {
+      "audio_url": "https://substack-video.s3.amazonaws.com/video_upload/post/120269018/tts/5b18c848-8833-4b72-a8ae-0cc44da3f744/en-US-JennyNeural.mp3",
+      "post_id": 120269018,
+      "status": "completed",
+      "type": "tts",
+      "voice_id": "en-US-JennyNeural"
+    }
+  ],
+  "body_html": null,
+  "body_json": null,
+  "canonical_url": "https://engineeringgenerosity.substack.com/p/social-media-part-1-attention-capture",
+  "child_comment_count": 0,
+  "comment_count": 0,
+  "coverImagePalette": {
+    "DarkMuted": {
+      "population": 188,
+      "rgb": [
+        93,
+        75,
+        64
+      ]
+    },
+    "DarkVibrant": {
+      "population": 0,
+      "rgb": [
+        89.8258064516129,
+        67.5832258064516,
+        42.774193548387096
+      ]
+    },
+    "LightMuted": {
+      "population": 259,
+      "rgb": [
+        193,
+        169,
+        142
+      ]
+    },
+    "LightVibrant": {
+      "population": 276,
+      "rgb": [
+        216,
+        193,
+        163
+      ]
+    },
+    "Muted": {
+      "population": 338,
+      "rgb": [
+        148,
+        124,
+        99
+      ]
+    },
+    "Vibrant": {
+      "population": 160,
+      "rgb": [
+        205,
+        179,
+        150
+      ]
+    }
+  },
+  "cover_image": "https://substackcdn.com/image/fetch/$s_!gHod!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1ae238b7-36fa-4690-83c2-3aa1877fe37c_1024x1024.png",
+  "cover_image_is_explicit": false,
+  "cover_image_is_square": true,
+  "default_comment_sort": null,
+  "description": "It's all about the trainwrecks",
+  "editor_v2": false,
+  "free_unlock_required": false,
+  "hasCashtag": false,
+  "has_dynamic_content": false,
+  "has_voiceover": false,
+  "headlineTest": null,
+  "id": 120269018,
+  "is_geoblocked": false,
+  "is_section_pinned": false,
+  "language": "en",
+  "pins": [],
+  "podcastFields": null,
+  "podcastPreviewUpload": null,
+  "podcastUpload": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "postCountryBlocks": [],
+  "postTags": [],
+  "post_date": "2023-05-09T12:42:05.542Z",
+  "post_preview_limit": null,
+  "publication_id": 294536,
+  "publishedBylines": [
+    {
+      "bestseller_tier": null,
+      "bio": "Hitchhiker to the Future. Mapping waystations. Building what comes after the collapse. Follow the symbols to find the humans. ORI",
+      "handle": "hitchhikertothefuture",
+      "id": 24975997,
+      "is_guest": false,
+      "name": "Leo Guinan",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/f551a560-e6ba-47f9-8cbf-0922cd0fcec1_1330x1330.jpeg",
+      "previous_name": null,
+      "profile_set_up_at": "2022-04-27T11:11:46.207Z",
+      "publicationUsers": [
+        {
+          "id": 5340464,
+          "is_primary": true,
+          "public": true,
+          "publication": {
+            "author_id": 24975997,
+            "community_enabled": true,
+            "copyright": "Leo Guinan",
+            "created_at": "2025-06-04T14:48:10.377Z",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "email_from_name": null,
+            "explicit": false,
+            "founding_plan_name": "Bottega Patron",
+            "hero_text": "Notes from the future to help me build my lab.",
+            "homepage_type": "newspaper",
+            "id": 5235543,
+            "invite_only": false,
+            "is_personal_mode": false,
+            "language": null,
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/3e7d4b88-a8a4-4b37-925d-70c78039925c_768x768.png",
+            "logo_url_wide": null,
+            "name": "Hitchhiker's Guide to the Future",
+            "payments_state": "disabled",
+            "primary_user_id": 24975997,
+            "subdomain": "hitchhikertothefuture",
+            "theme_var_background_pop": "#FF6719"
+          },
+          "publication_id": 5235543,
+          "role": "admin",
+          "user_id": 24975997
+        },
+        {
+          "id": 235330,
+          "is_primary": false,
+          "public": true,
+          "publication": {
+            "author_id": 24975997,
+            "community_enabled": true,
+            "copyright": "Leo Guinan",
+            "created_at": "2021-02-22T22:50:09.248Z",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "email_from_name": null,
+            "explicit": false,
+            "founding_plan_name": "Abundance Generator",
+            "hero_text": "In the world of AI, it's important that we start building abundant systems instead of scarce ones. I'll be showing you what abundant systems look like, why they are important, and what the consequences are and will be if we don't.",
+            "homepage_type": null,
+            "id": 294536,
+            "invite_only": false,
+            "is_personal_mode": false,
+            "language": null,
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/c67b0e0f-0464-4c5c-8d94-7d39adc91df6_1024x1024.png",
+            "logo_url_wide": null,
+            "name": "Engineering Generosity",
+            "payments_state": "disabled",
+            "primary_user_id": null,
+            "subdomain": "engineeringgenerosity",
+            "theme_var_background_pop": "#786CFF"
+          },
+          "publication_id": 294536,
+          "role": "admin",
+          "user_id": 24975997
+        }
+      ],
+      "reader_installed_at": "2022-11-03T20:07:02.413Z",
+      "status": null,
+      "twitter_screen_name": "leo_guinan"
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 0,
+  "reactions": {
+    "❤": 0
+  },
+  "restacked_post_id": null,
+  "restacked_post_slug": null,
+  "restacked_pub_logo_url": null,
+  "restacked_pub_name": null,
+  "restacks": 0,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "section_name": null,
+  "section_slug": null,
+  "should_send_free_preview": false,
+  "slug": "social-media-part-1-attention-capture",
+  "social_title": null,
+  "subtitle": "It's all about the trainwrecks",
+  "teaser_post_eligible": true,
+  "title": "Social Media Part 1: Attention Capture",
+  "top_exclusions": [],
+  "truncated_body_text": "Here’s the first thing to realize when it comes to social media: it changes behaviors. There are many things people do on social media that they wouldn’t dream of doing in real life. This is both a good and bad thing, although we normally tend to focus on the bad parts of it.",
+  "type": "newsletter",
+  "videoUpload": null,
+  "video_upload_id": null,
+  "voiceoverUpload": null,
+  "voiceover_upload_id": null,
+  "wordcount": 885,
+  "write_comment_permissions": "everyone"
+}
