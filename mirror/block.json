@@ -1,6 +1,6 @@
 {
   "block_id": "engineeringgenerosity-substack",
-  "created_at": "2026-06-18T15:24:17Z",
+  "created_at": "2026-06-18T16:22:27Z",
   "records": [
     {
       "metadata": {
@@ -1750,14 +1750,15 @@
     }
   ],
   "schema_version": "datamine.block.v1",
-  "source_adapter": "substack-block-adapter@0.1.0",
+  "source_adapter": "substack-block-adapter@0.2.0",
   "source_config": {
     "block_id": "engineeringgenerosity-substack",
     "fetch_bodies": false,
-    "out": "/Users/leoguinan/Projects/substack-mirrors/engineeringgenerosity-substack-block/mirror",
+    "out": "mirror",
     "publication": "https://engineeringgenerosity.substack.com",
-    "source_id_prefix": "s01-substack"
+    "source_id_prefix": "s01-substack",
+    "source_mode": "rss_latest"
   },
-  "source_config_fingerprint": "03be458cb632303040a556660157b80f13e4b226d9fd26e0366deda388099d1f",
+  "source_config_fingerprint": "47977eb3caf671e21f43e7da067c91e5ce9eec06cc410bb9219670f45ffcb099",
   "title": "Substack mirror: https://engineeringgenerosity.substack.com"
 }
