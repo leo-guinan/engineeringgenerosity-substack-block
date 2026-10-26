@@ -1,6 +1,6 @@
 # Substack mirror: https://engineeringgenerosity.substack.com
 
-Generated at: 2026-10-19T16:28:21Z
+Generated at: 2026-10-26T16:07:54Z
 
 Posts mirrored: 97
 
